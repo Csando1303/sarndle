@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en-GB"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sarndle – the daily UK sandwich guessing game</title><meta name="description" content="Guess today's UK supermarket sandwich in 6 tries. A new sarnie every day at midnight.">
+<meta name="theme-color" content="#c98a3e"><meta property="og:type" content="website"><meta property="og:site_name" content="Sarndle"><meta property="og:title" content="🥪 Sarndle – the daily UK sandwich guessing game"><meta property="og:description" content="Guess today's UK supermarket sandwich in 6 tries. A new sarnie every day at midnight."><meta name="twitter:card" content="summary">
+<!-- Google AdSense: once you have a publisher ID, uncomment the meta tag (site verification) and fill in ADSENSE_CLIENT below. -->
+<!-- <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXXXXXXXX"> -->
+<script>
+const ADSENSE_CLIENT=""; // e.g. "ca-pub-1234567890123456". Empty = no ads load. Ad placement + UK/EU consent banner are set up in the AdSense dashboard.
+if(ADSENSE_CLIENT&&/^https?:$/.test(location.protocol)&&!/claude/.test(location.hostname)){const s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="+ADSENSE_CLIENT;document.head.appendChild(s)}
+</script><link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥪</text></svg>">
+<style>
+:root{--bg:#fdf6e9;--ink:#2b2118;--crust:#c98a3e;--g:#4caf6a;--y:#e6b93a;--r:#b9b2a6;--card:#fff}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--ink)}
+.wrap{max-width:820px;margin:0 auto;padding:20px 12px 60px}
+h1{font-size:44px;margin:0;text-align:center;letter-spacing:2px;color:var(--crust);font-weight:900}
+.sub{text-align:center;margin:4px 0 18px;opacity:.75}
+.bar{display:flex;gap:8px;position:relative;margin-top:8px}.bar[hidden]{display:none}
+input{flex:1;padding:12px 14px;font-size:16px;border:2px solid var(--crust);border-radius:10px;background:var(--card);color:var(--ink)}
+button{padding:12px 18px;font-size:16px;font-weight:700;border:0;border-radius:10px;background:var(--crust);color:#fff;cursor:pointer}
+button:disabled{opacity:.5;cursor:default}
+.list{position:relative;margin-top:6px;background:var(--card);border:1px solid #ddd;border-radius:10px;max-height:260px;overflow:auto;z-index:5;box-shadow:0 6px 20px #0002}
+.list div{padding:10px 14px;cursor:pointer}.list div:hover,.list div.on{background:#f3e6cf}
+.list small{opacity:.6}
+.meta{display:flex;justify-content:space-between;margin:10px 2px;font-size:14px;opacity:.8}
+.grid{overflow-x:auto}
+.row{display:grid;grid-template-columns:1.6fr repeat(5,1fr);gap:6px;margin-bottom:6px;min-width:620px}
+.head div{font-size:12px;font-weight:700;text-transform:uppercase;text-align:center;opacity:.7}
+.cell{border-radius:8px;padding:10px 6px;min-height:58px;display:flex;align-items:center;justify-content:center;text-align:center;font-size:13px;font-weight:600;color:#fff;animation:flip .45s both}
+.name{background:var(--card);color:var(--ink);border:2px solid #e7d7bd;justify-content:flex-start;text-align:left}
+.g{background:var(--g)}.y{background:var(--y)}.r{background:var(--r)}
+@keyframes flip{from{transform:rotateX(90deg)}to{transform:none}}
+.end{margin-top:18px;padding:18px;background:var(--card);border-radius:12px;text-align:center;border:2px solid #e7d7bd}
+.end h2{margin:0 0 6px}
+.key{display:flex;gap:14px;justify-content:center;font-size:13px;margin-top:14px;flex-wrap:wrap}
+.key span::before{content:"";display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-1px;background:var(--c)}
+.share{background:#fdf6e9;border-radius:10px;padding:12px;display:inline-block;text-align:left;font-size:15px;white-space:pre-wrap;margin:6px 0 12px}
+.foot{text-align:center;margin-top:18px;font-size:14px}.foot a{color:var(--crust);font-weight:700}
+.form{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0 16px}.form label{display:flex;flex-direction:column;gap:4px;font-size:13px;font-weight:700}
+.form .wide{grid-column:1/-1}select{padding:12px;font-size:16px;border:2px solid var(--crust);border-radius:10px;background:var(--card)}
+.sched{width:100%;border-collapse:collapse;background:var(--card);border-radius:10px;overflow:hidden}.sched td{padding:10px;border-bottom:1px solid #eee;font-size:14px}
+button.sm{padding:6px 10px;font-size:13px;background:#a33}#a-msg{font-weight:700;margin-left:8px}
+.top{display:flex;justify-content:space-between;align-items:center}.top h1{flex:1}
+.icon{background:none;color:var(--ink);font-size:22px;padding:6px 10px}
+.modal{position:fixed;inset:0;background:#0007;display:flex;align-items:center;justify-content:center;z-index:20;padding:16px}
+.modal[hidden]{display:none}.box{background:var(--card);border-radius:14px;max-width:480px;width:100%;padding:20px;max-height:90vh;overflow:auto}
+.box h2{margin-top:0}.box ul{padding-left:18px;line-height:1.5}
+.stats{display:flex;justify-content:center;gap:18px;margin:10px 0}.stats div{text-align:center}.stats b{display:block;font-size:24px}
+.dist{max-width:300px;margin:8px auto;text-align:left;font-size:13px}.dist div{display:flex;gap:6px;align-items:center;margin:3px 0}.dist span{background:var(--r);color:#fff;padding:2px 6px;border-radius:4px;min-width:20px;text-align:right}.dist span.me{background:var(--g)}
+.note{background:#fff4d6;border-radius:10px;padding:10px 12px;font-size:13px;margin:10px 0}
+.pic{display:block;margin:4px auto 8px;width:240px;max-width:80%;animation:drop .8s cubic-bezier(.3,1.6,.5,1) both}
+.pic.lose{animation:drop .8s ease-out both,wob 1.2s .8s ease-in-out 2}
+@keyframes drop{from{transform:translateY(-120px) scale(.6);opacity:0}to{transform:none;opacity:1}}
+@keyframes wob{0%,100%{transform:rotate(0)}25%{transform:rotate(-6deg)}75%{transform:rotate(6deg)}}
+.fx{position:fixed;top:-40px;font-size:28px;pointer-events:none;z-index:30;animation:fall linear forwards}
+@keyframes fall{to{transform:translateY(110vh) rotate(var(--r))}}
+@media(max-width:640px){h1{font-size:30px}.grid{overflow:visible}.row{grid-template-columns:repeat(5,1fr);min-width:0;gap:4px}.row .name{grid-column:1/-1;min-height:0;padding:6px 10px}.head div:first-child{display:none}.head div{font-size:0}.head div::first-letter{font-size:20px}.cell{font-size:11px;min-height:52px;padding:6px 3px}}
+body.cb{--g:#f5793a;--y:#85c0f9}
+@media(prefers-color-scheme:dark){:root{--bg:#1d1813;--ink:#f3e9dc;--card:#2a231c;--r:#5b544b}.name{border-color:#4a3d2f}.share{background:#1d1813}.note{background:#3a3020}.list div:hover,.list div.on{background:#3a3020}input,select{color:var(--ink)}}
+.hint{text-align:center;margin:10px 0}.hint button{background:none;color:var(--crust);border:2px solid var(--crust);padding:8px 14px;font-size:14px}
+.tog{display:flex;gap:8px;align-items:center;justify-content:center;margin:12px 0;font-size:14px}
+</style></head><body><div class="wrap">
+<div class="top"><button class="icon" id="helpbtn" title="How to play">❓</button><h1>🥪 SARNDLE</h1><button class="icon" id="statsbtn" title="Stats">📊</button></div>
+<div id="game"><div class="sub">Guess today's UK supermarket sandwich in 6 tries</div>
+
+<div class="meta"><span id="day"></span><span id="left"></span></div><div class="hint" id="hint" hidden></div>
+<div class="grid"><div class="row head"><div>🥪 Sandwich</div><div>🏪 Supermarket</div><div>💷 Price</div><div>🥓 Filling</div><div>🍞 Bread</div><div>🏷️ Range</div></div><div id="rows"></div></div><div class="bar" id="bar"><input id="q" placeholder="Type a sandwich…" autocomplete="off" enterkeyhint="go"><button id="go">🔍 Guess</button></div><div class="list" id="list" hidden></div>
+<div id="end" class="end" hidden></div>
+<div class="key"><span style="--c:var(--g)">Exact</span><span style="--c:var(--y)">Close / partial</span><span style="--c:var(--r)">Wrong</span><span>↑↓ higher / lower</span><span>🔁 New sarnie daily at midnight</span></div><p class="foot" style="opacity:.6;font-size:12px">Prices from supermarket websites, checked 17 Nov 2026 — may differ in store. · <a href="privacy.html">Privacy &amp; cookies</a></p><div hidden></div>
+</div>
+</div>
+<div class="modal" id="help" hidden><div class="box"><h2>How to play</h2>
+<p>Guess today's UK supermarket sandwich in <b>6 tries</b>. Start typing and pick a sandwich from the list.</p>
+<ul><li>🟩 <b>Green</b>: exactly right</li><li>🟨 <b>Yellow</b>: close. Price within 50p, some fillings in common, or a similar kind of bread</li><li>⬛ <b>Grey</b>: wrong</li><li>↑ ↓ The real price is higher or lower</li></ul>
+<p>Clues: 🏪 Supermarket · 💷 Price · 🥓 Filling · 🍞 Bread · 🏷️ Range (Value, Standard, Premium, Festive, Plant-based or Free From)</p>
+<p>Stuck? After 3 guesses you can reveal a hint.</p><p>A new sarnie arrives every day at midnight (UK time). Prices come from supermarket websites and may differ in store. Sarndle isn't affiliated with any supermarket.</p><label class="tog"><input type="checkbox" id="cbmode" style="flex:0"> Colour-blind friendly colours</label>
+<button id="helpok">Let's eat 🥪</button></div></div>
+<div class="modal" id="statsm" hidden><div class="box" style="text-align:center"><h2>📊 Your stats</h2><div id="statsbody"></div><p id="countdown" style="font-weight:700"></p><button id="statsok">Close</button></div></div>
+<script>
+// The sandwich list (sandwiches.json) is public: it's used for the search box and pictures.
+// Today's answer is never sent to the browser until the game is over: /api/guess checks each guess (see lib/game.js).
+// A sandwich is [name, shop, price £, fillings[], bread, range].
+const FAM={Sliced:1,White:1,Malted:1,Wholemeal:1,Oatmeal:1,Seeded:1,Rye:1,"Onion bread":1,"Sub roll":2,Baguette:2,Roll:2,Bagel:2,Brioche:2,Wrap:3,Naan:3,Toastie:4};
+const label=s=>s[0]+" ("+s[1]+")",key=s=>s[0]+"|"+s[1];
+const store={get(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const esc=t=>String(t).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const $=id=>document.getElementById(id);
+const MAX=6;
+// Share link: the page's own address when hosted on the web; the original claude.ai artifact otherwise.
+const SITE_URL=/^https?:$/.test(location.protocol)&&!/claude/.test(location.hostname)?location.origin+location.pathname.replace(/index\.html$/,""):"https://claude.ai/artifact/A22oHadBzEkCn5L2a7QeAa";
+let S=[],res=null,ans=null,busy=false,err="";
+const loadDay=new Date().toLocaleDateString("en-CA",{timeZone:"Europe/London"});let today=loadDay;
+// sarndle-v2: {day, g:[guess keys], hint}. The server's answer to these guesses is in `res`.
+let st=store.get("sarndle-v2")||{};if(st.day!==today||!Array.isArray(st.g))st={day:today,g:[]};delete st.ans;
+// ---- sandwich picture ----
+const FC={Chicken:"#e3a857",Bacon:"#c0392b",Ham:"#f4a3a8",Cheese:"#f7c948",Egg:"#ffe066",Tuna:"#d9c4a0",Prawn:"#ff9e80",Salmon:"#ff8a65",Beef:"#8d4b3b",Turkey:"#d8b07a",Sausage:"#9c5530",Salad:"#5fae3e",Tomato:"#e74c3c",Cress:"#9bd56b",Cucumber:"#7cbf4a",Sweetcorn:"#ffd54f",Stuffing:"#a1887f",Cranberry:"#b71c1c",Pickle:"#6d4c41",Onion:"#d6a6e0",Duck:"#7b3f2a",Pork:"#d9967a",Falafel:"#9c7a3c",Houmous:"#e6c99a",Avocado:"#8bc34a",Pesto:"#4e8a2e",Strawberry:"#e53950",Chocolate:"#5d3a1a",Marmite:"#3b2314",Celery:"#a5d66b",Veg:"#66bb6a",Mixed:"#e0a96d"};
+const fc=f=>FC[f]||(/plant/i.test(f)?"#a5b56b":"#e0a96d");
+function bcol(b){return /Malted|Wholemeal|Seeded|Rye|Onion bread/.test(b)?["#c99a63","#8b5a2b"]:b==="Oatmeal"?["#e8d1a8","#b88a50"]:["#f6e2b8","#d4a055"]}
+function sandwichSVG(s){const f=s[3].length?s[3]:["Mixed"],b=s[4],[crumb,crust]=bcol(b);let g="";
+ if(FAM[b]===3){ // wrap: two rolled halves showing a spiral of fillings
+  [[80,110],[160,100]].forEach(([x,y])=>{g+=`<ellipse cx="${x}" cy="${y+38}" rx="44" ry="8" fill="#0002"/><circle cx="${x}" cy="${y}" r="42" fill="#f3e3c3" stroke="#d9b98a" stroke-width="4"/>`;
+   f.slice(0,4).forEach((c,i)=>g+=`<circle cx="${x}" cy="${y}" r="${34-i*8}" fill="${fc(c)}"/>`);g+=`<circle cx="${x}" cy="${y}" r="${Math.max(4,34-f.slice(0,4).length*8)}" fill="#f3e3c3"/>`});
+ }else if(FAM[b]===2){ // roll / sub
+  g+=`<ellipse cx="120" cy="150" rx="105" ry="10" fill="#0002"/><path d="M20 120 Q20 145 120 145 Q220 145 220 120 Z" fill="${crust}"/>`;
+  f.slice(0,4).forEach((c,i)=>g+=`<path d="M22 ${118-i*9} Q40 ${108-i*9} 60 ${118-i*9} T100 ${118-i*9} T140 ${118-i*9} T180 ${118-i*9} T220 ${118-i*9} L220 ${126-i*9} L22 ${126-i*9}Z" fill="${fc(c)}"/>`);
+  const top=124-f.slice(0,4).length*9;g+=`<path d="M18 ${top} Q20 ${top-55} 120 ${top-58} Q220 ${top-55} 222 ${top} Z" fill="${crust}"/>`+[60,100,140,180].map(x=>`<path d="M${x-8} ${top-30} l16 -10" stroke="#fff6" stroke-width="5" stroke-linecap="round"/>`).join("");
+ }else{ // sliced: side view of a stacked sandwich
+  const L=f.slice(0,5),h=Math.min(16,60/L.length);let y=150;
+  g+=`<ellipse cx="120" cy="172" rx="105" ry="9" fill="#0002"/><rect x="22" y="${y}" width="196" height="18" rx="6" fill="${crumb}" stroke="${crust}" stroke-width="5"/>`;
+  L.forEach((c,i)=>{y-=h;let p=`M18 ${y+h}`;for(let x=18;x<=222;x+=17)p+=` L${x} ${y+(x/17%2?2:-3)}`;g+=`<path d="${p} L222 ${y+h} Z" fill="${fc(c)}" stroke="#0001"/>`});
+  y-=4;g+=`<path d="M22 ${y} Q20 ${y-48} 70 ${y-50} Q120 ${y-66} 170 ${y-50} Q220 ${y-48} 218 ${y} Z" fill="${crumb}" stroke="${crust}" stroke-width="6"/>`;
+  if(/Seeded|Malted|Wholemeal|Rye/.test(b))g+=[50,80,115,150,185].map((x,i)=>`<ellipse cx="${x}" cy="${y-28-(i%2)*10}" rx="3" ry="1.6" fill="${crust}"/>`).join("");
+  if(b==="Toastie")g+=[0,1,2,3].map(i=>`<path d="M${50+i*40} ${y-10} l25 -35" stroke="#6b3d16" stroke-width="5" opacity=".45"/>`).join("");
+ }
+ return `<svg viewBox="0 0 240 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${esc(s[0])}">${g}</svg>`}
+function burst(won){const em=won?["🥪","🎉","🥳","✨","🥪"]:["🍞","💧","🥲"],n=won?40:14;
+ for(let i=0;i<n;i++){const e=document.createElement("div");e.className="fx";e.textContent=em[i%em.length];e.style.left=Math.random()*100+"vw";
+  e.style.animationDuration=(won?2+Math.random()*2:3+Math.random()*2)+"s";e.style.animationDelay=Math.random()*(won?.8:1.5)+"s";e.style.setProperty("--r",(Math.random()*720-360)+"deg");
+  document.body.appendChild(e);setTimeout(()=>e.remove(),6000)}}
+// ---- stats / help ----
+function stats(){return store.get("sarndle-stats")||{played:0,wins:0,streak:0,best:0,last:null,dist:[0,0,0,0,0,0]}}
+function recordStats(won,n){const t=stats();if(t.last===today)return;const y=new Date(Date.parse(today)-864e5).toISOString().slice(0,10);
+ t.played++;if(won){t.wins++;t.dist[n-1]++;t.streak=(t.lastWin===y?t.streak:0)+1;t.lastWin=today;t.best=Math.max(t.best,t.streak)}else t.streak=0;t.last=today;store.set("sarndle-stats",t)}
+function countdown(){const now=new Date(),lon=new Date(now.toLocaleString("en-US",{timeZone:"Europe/London"})),mid=new Date(lon);mid.setHours(24,0,0,0);
+ const ms=mid-lon,h=Math.floor(ms/36e5),m=Math.floor(ms%36e5/6e4),sec=Math.floor(ms%6e4/1e3);return `Next sarnie in ${h}h ${String(m).padStart(2,"0")}m ${String(sec).padStart(2,"0")}s`}
+setInterval(()=>{const c=countdown();document.querySelectorAll(".cd,#countdown").forEach(e=>e.textContent=c);if(new Date().toLocaleDateString("en-CA",{timeZone:"Europe/London"})!==loadDay)location.reload()},1000);
+function openStats(){const t=stats(),mx=Math.max(1,...t.dist),todayN=(res&&res.won)?res.results.length:0;
+ $("statsbody").innerHTML=`<div class="stats"><div><b>${t.played}</b>Played</div><div><b>${t.played?Math.round(t.wins/t.played*100):0}%</b>Won</div><div><b>${t.streak}</b>Streak</div><div><b>${t.best}</b>Best</div></div><div class="dist">${t.dist.map((v,i)=>`<div>${i+1}<span class="${todayN===i+1?"me":""}" style="width:${Math.max(8,v/mx*100)}%">${v}</span></div>`).join("")}</div>`;
+ $("countdown").textContent=countdown();$("statsm").hidden=false}
+$("statsbtn").onclick=openStats;$("statsok").onclick=()=>$("statsm").hidden=true;
+$("helpbtn").onclick=()=>$("help").hidden=false;$("helpok").onclick=()=>{$("help").hidden=true;store.set("sarndle-seen",1)};
+if(!store.get("sarndle-seen"))$("help").hidden=false;
+if(store.get("sarndle-cb"))document.body.classList.add("cb");$("cbmode").checked=!!store.get("sarndle-cb");
+$("cbmode").onchange=e=>{store.set("sarndle-cb",e.target.checked?1:0);document.body.classList.toggle("cb",e.target.checked)};
+function sv(el,o){try{el.scrollIntoView(o)}catch(e){}}
+// ---- server ----
+async function api(guesses,hint){
+ const r=await fetch("/api/guess",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({day:st.day,guesses,hint:!!hint})});
+ if(!r.ok)throw new Error("HTTP "+r.status);return r.json()}
+// Take the server's view as the truth: its day, and only the guesses it accepted.
+function apply(r){
+ if(r.day!==st.day){st={day:r.day,g:[]};}
+ st.g=r.results.map(x=>x.k);today=r.day;res=r;ans=r.answer||null;store.set("sarndle-v2",st)}
+// ---- game ----
+const q=$("q"),list=$("list");
+const byKey=k=>S.find(x=>key(x)===k);
+function row(r){const s=byKey(r.k)||[r.k.split("|")[0],r.k.split("|")[1]],cs=r.c;
+ const el=document.createElement("div");el.className="row";
+ el.innerHTML=`<div class="cell name">${esc(label(s))}</div>`+cs.map((c,i)=>`<div class="cell ${c[0]}" aria-label="${["Supermarket","Price","Filling","Bread","Range"][i]}: ${esc(c[1])}, ${{g:"correct",y:"close",r:"wrong"}[c[0]]}" style="animation-delay:${i*.12}s">${esc(c[1])}</div>`).join("");
+ $("rows").append(el)}
+function render(){
+ const rs=res?res.results:[],won=!!(res&&res.won),done=!!(res&&res.done);
+ $("rows").innerHTML="";rs.forEach(row);
+ $("day").textContent=res?"Sarndle #"+res.dayNo:"Sarndle";
+ $("left").textContent=err?"⚠️ "+err:!res?"Loading…":done?"":`${MAX-rs.length} guesses left`;
+ q.disabled=$("go").disabled=!res||done||busy;$("bar").hidden=done;q.placeholder=busy?"Checking…":"Type a sandwich…";
+ const h=$("hint");h.hidden=!res||done||rs.length<3;
+ if(!h.hidden)h.innerHTML=res.hint?`💡 Hint: it ${res.hint.filling?`contains <b>${esc(res.hint.filling)}</b> and `:""}costs between £${res.hint.price.toFixed(2)} and £${(res.hint.price+1).toFixed(2)}`:`<button id="hintb">💡 Show a hint</button>`;
+ if(!h.hidden&&!res.hint)$("hintb").onclick=async()=>{st.hint=1;store.set("sarndle-v2",st);try{apply(await api(st.g,1));err=""}catch(e){err="Couldn't get a hint. Try again."}render()};
+ const e=$("end");e.hidden=!done;
+ if(done&&ans){recordStats(won,rs.length);
+  const sq={g:"🟩",y:"🟨",r:"⬛"},n=rs.length;
+  const title=won?["","🤯 Sarnie Psychic!","🔥 Bread Genius!","😎 Meal Deal Master!","👌 Solid Snacker","😅 Close Shave","😰 Last Crumb!"][n]:"🥲 Went hungry today";
+  const grid=rs.map(r=>{const c=r.c;return c.map(x=>sq[x[0]]).join("")+(c[1][1].includes("↑")?" 💷⬆️":c[1][1].includes("↓")?" 💷⬇️":" 💷✅")}).join("\n");
+  const share=`🥪 SARNDLE #${res.dayNo} 🥪\n${title}  ${won?n:"X"}/${MAX}${st.hint?" 💡":""}\n\n🏪💷🥓🍞🏷️\n${grid}\n\nGuess the sarnie 👉 ${SITE_URL}`;
+  e.innerHTML=`<div class="pic ${won?"":"lose"}">${sandwichSVG(ans)}</div><h2>${won?"🎉 Got it!":"😢 Unlucky"}</h2><p>Today's sarnie: <b>${esc(label(ans))}</b></p><pre class="share">${esc(share)}</pre><button id="sh">📋 Copy result</button> <button id="st2">📊 Stats</button><p class="cd"></p>`;
+  $("st2").onclick=openStats;
+  $("sh").onclick=()=>{try{navigator.clipboard.writeText(share).then(()=>$("sh").textContent="✅ Copied!",()=>{})}catch(err){}}}
+}
+let sel=0,matches=[];
+function show(){const t=q.value.toLowerCase().trim();
+ const w=t.split(/\s+/).map(x=>x.replace(/&/g,"and"));const norm=x=>x.toLowerCase().replace(/&/g,"and").replace(/[^a-z0-9 ]/g,"");
+ matches=t?S.map((s,i)=>i).filter(i=>!st.g.includes(key(S[i]))&&w.every(x=>norm(label(S[i])+" "+S[i][3].join(" ")+(/Bacon/.test(S[i][3])&&/Tomato/.test(S[i][3])?" blt":"")).includes(x.replace(/[^a-z0-9]/g,"")))).sort((x,y)=>(norm(S[y][0]).startsWith(w[0])-norm(S[x][0]).startsWith(w[0]))).slice(0,12):[];
+ sel=0;list.hidden=!matches.length;
+ list.innerHTML=matches.map((i,k)=>`<div data-i="${i}" class="${k?"":"on"}">${esc(S[i][0])} <small>${esc(S[i][1])}</small></div>`).join("")}
+async function guess(i){if(i==null||busy||!res||res.done)return;const k=key(S[i]);if(st.g.includes(k))return;
+ busy=true;err="";q.value="";list.hidden=true;matches=[];render();
+ try{apply(await api([...st.g,k],st.hint))}catch(e){err="Couldn't reach the server. Try that guess again."}
+ busy=false;render();
+ if(res&&res.done){burst(res.won);setTimeout(()=>sv($("end"),{behavior:"smooth"}),300)}else q.focus()}
+q.oninput=()=>{show();if(!list.hidden)sv(list,{block:"nearest",behavior:"smooth"})};
+q.onfocus=()=>setTimeout(()=>sv($("bar"),{block:"center",behavior:"smooth"}),250);
+q.onkeydown=e=>{if((e.key==="ArrowDown"||e.key==="ArrowUp")&&matches.length){e.preventDefault();sel=(sel+(e.key==="ArrowDown"?1:-1)+matches.length)%matches.length;[...list.children].forEach((d,k)=>d.className=k===sel?"on":"")}
+ if(e.key==="Enter")guess(matches[sel])};
+list.onclick=e=>{const d=e.target.closest("[data-i]");if(d)guess(+d.dataset.i)};
+$("go").onclick=()=>guess(matches[sel]);
+// ---- boot ----
+render();
+Promise.all([fetch("sandwiches.json").then(r=>{if(!r.ok)throw new Error("list");return r.json()}),api(st.g,st.hint)])
+ .then(([l,r])=>{S=l;apply(r);render()})
+ .catch(()=>{err="Couldn't load today's sarnie. Check your connection and refresh.";render()});
+</script>
+</body></html>

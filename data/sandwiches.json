@@ -1,0 +1,3175 @@
+[
+ {
+  "name": "Finest Honey Roasted Gammon & Barber's Cheddar Sandwich",
+  "shop": "Tesco",
+  "price": 4.5,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Fully Loaded Chicken, Stuffing, Red Cabbage & Cranberry Sandwich",
+  "shop": "Tesco",
+  "price": 4.5,
+  "fillings": [
+   "Chicken",
+   "Stuffing",
+   "Cranberry"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayonnaise Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese Triple Sandwich",
+  "shop": "Tesco",
+  "price": 3.4,
+  "fillings": [
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Ham & Cheddar Sandwich",
+  "shop": "Tesco",
+  "price": 2.75,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Salad Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Chicken",
+   "Salad"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken, Bacon & Stuffing Sandwich",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Bacon",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Cucumber Sandwich",
+  "shop": "Tesco",
+  "price": 2.25,
+  "fillings": [
+   "Tuna",
+   "Cucumber"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken, Bacon & Lettuce Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Chicken",
+   "Bacon",
+   "Salad"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie & Cranberry Sandwich",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Cheese",
+   "Cranberry"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Free Range Egg Mayonnaise Sandwich",
+  "shop": "Tesco",
+  "price": 2.25,
+  "fillings": [
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Pigs in Blankets Sandwich",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Sausage",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "BBQ Chicken & Red Leicester Sandwich",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "The Christmas Triple Sandwich",
+  "shop": "Tesco",
+  "price": 3.5,
+  "fillings": [
+   "Mixed"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Triple Sandwich",
+  "shop": "Tesco",
+  "price": 3.4,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Onion Sandwich",
+  "shop": "Tesco",
+  "price": 1.5,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Sausage, Bacon & Egg Triple",
+  "shop": "Tesco",
+  "price": 3.4,
+  "fillings": [
+   "Bacon",
+   "Sausage",
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Just Ham Sandwich",
+  "shop": "Tesco",
+  "price": 1.5,
+  "fillings": [
+   "Ham"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "The Chicken Club Sandwich",
+  "shop": "Tesco",
+  "price": 3.4,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Cress Sandwich",
+  "shop": "Tesco",
+  "price": 1.5,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Turkey & Trimmings Sandwich",
+  "shop": "Tesco",
+  "price": 3.5,
+  "fillings": [
+   "Turkey",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Free From Chicken & Trimmings Sandwich",
+  "shop": "Tesco",
+  "price": 3.5,
+  "fillings": [
+   "Chicken",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Free From",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Festive Pork Meatball Wrap",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Pork"
+  ],
+  "bread": "Wrap",
+  "range": "Festive",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Trimmings Sub Roll",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Stuffing"
+  ],
+  "bread": "Sub roll",
+  "range": "Festive",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken, Bacon & Stuffing Wrap",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Bacon",
+   "Stuffing"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cracking Currywurst Sub Roll",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Sausage"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Sausage, Bacon & Egg Sub",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Bacon",
+   "Sausage",
+   "Egg"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Southern Fried Chicken Sub with Chipotle Mayo",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham & Cheddar Cheese Sub",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Bacon, Lettuce & Tomato Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Sweetcorn Sandwich",
+  "shop": "Tesco",
+  "price": 2.25,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese Sandwich No Mayonnaise",
+  "shop": "Tesco",
+  "price": 1.5,
+  "fillings": [
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna Crunch Sub",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Tuna"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Finest Smoked Scottish Salmon & Cream Cheese Sandwich",
+  "shop": "Tesco",
+  "price": 4.5,
+  "fillings": [
+   "Salmon",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Coronation Chicken Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Sweetcorn Sandwich",
+  "shop": "Tesco",
+  "price": 2.25,
+  "fillings": [
+   "Chicken",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Pickle Sandwich",
+  "shop": "Tesco",
+  "price": 2.25,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Sandwich",
+  "shop": "Tesco",
+  "price": 2.25,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham, Cheese & Chicken Triple Sandwich",
+  "shop": "Tesco",
+  "price": 3.4,
+  "fillings": [
+   "Chicken",
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoky Bacon Sarnie with Tangy Ketchup",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Finest New York Deli Pastrami & Emmental Sandwich",
+  "shop": "Tesco",
+  "price": 4.5,
+  "fillings": [
+   "Beef",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Tikka & Mango Chutney Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Deli Style Cheese & Pickle Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Ham & Mustard Sandwich",
+  "shop": "Tesco",
+  "price": 2.25,
+  "fillings": [
+   "Ham"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Roast Chicken, Mozzarella & Pesto Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Chicken",
+   "Cheese",
+   "Pesto"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Free From BLT Sandwich",
+  "shop": "Tesco",
+  "price": 3.4,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Sliced",
+  "range": "Free From",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Finest Turkey Pastrami Panettone Style Roll",
+  "shop": "Tesco",
+  "price": 4.95,
+  "fillings": [
+   "Turkey"
+  ],
+  "bread": "Roll",
+  "range": "Premium",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "BBQ Chicken, Bacon & Cheese Sandwich",
+  "shop": "Tesco",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Bacon",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Salad Sub",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Chicken",
+   "Salad"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Stuffing Sandwich",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Chicken",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Meatball Marinara Sub",
+  "shop": "Tesco",
+  "price": 3.0,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie & Smoked Bacon with Chilli Jam Sandwich",
+  "shop": "Tesco",
+  "price": 2.85,
+  "fillings": [
+   "Bacon",
+   "Cheese"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ploughman's Sandwich",
+  "shop": "Tesco",
+  "price": 2.75,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/browse/fresh-food/chilled-soup-sandwiches-and-salad-pots/sandwiches-wraps-and-sushi/sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Red Onion on Oatmeal Bread",
+  "shop": "Sainsbury's",
+  "price": 1.8,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Oatmeal",
+  "range": "Value",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Ham & Cheddar on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 3.1,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna Mayo on Oatmeal Bread",
+  "shop": "Sainsbury's",
+  "price": 1.8,
+  "fillings": [
+   "Tuna"
+  ],
+  "bread": "Oatmeal",
+  "range": "Value",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Red Leicester Ploughman's Sandwich",
+  "shop": "Sainsbury's",
+  "price": 3.1,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "BLT on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 3.1,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "High Protein Chicken Salad Sandwich",
+  "shop": "Sainsbury's",
+  "price": 3.15,
+  "fillings": [
+   "Chicken",
+   "Salad"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Free Range Egg & Cress on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 1.8,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Malted",
+  "range": "Value",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Bacon & Free Range Egg on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 3.0,
+  "fillings": [
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie, Bacon & Chilli Chutney on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 3.25,
+  "fillings": [
+   "Bacon",
+   "Cheese"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Sweetcorn with Black Pepper Mayo on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 2.3,
+  "fillings": [
+   "Chicken",
+   "Sweetcorn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Falafel & Houmous Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.25,
+  "fillings": [
+   "Falafel",
+   "Houmous"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Sweetcorn on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 2.3,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon with Black Pepper Mayo on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 3.1,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken with Sage & Onion Stuffing on White Bread",
+  "shop": "Sainsbury's",
+  "price": 3.1,
+  "fillings": [
+   "Chicken",
+   "Onion",
+   "Stuffing"
+  ],
+  "bread": "White",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "No Mayo Ham on White Bread",
+  "shop": "Sainsbury's",
+  "price": 1.7,
+  "fillings": [
+   "Ham"
+  ],
+  "bread": "White",
+  "range": "Value",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Beef & Horseradish with Rocket on White Bread",
+  "shop": "Sainsbury's",
+  "price": 3.5,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "White",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Festive Chicken, Bacon & Stuffing Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Chicken",
+   "Bacon",
+   "Stuffing"
+  ],
+  "bread": "Wrap",
+  "range": "Festive",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Turkey Feast Sandwich",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Turkey"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie & Cranberry Sandwich",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Cheese",
+   "Cranberry"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Plant Pioneers No Pigs Under Blankets",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Plant sausage"
+  ],
+  "bread": "Sliced",
+  "range": "Plant-based",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Pigs Under Blankets with Cranberry Chutney on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Sausage",
+   "Bacon",
+   "Cranberry"
+  ],
+  "bread": "Malted",
+  "range": "Festive",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Christmas Cracker Club Sandwich",
+  "shop": "Sainsbury's",
+  "price": 3.5,
+  "fillings": [
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Southern Fried Chicken Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Caesar Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "High Protein Buffalo Chicken Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Salt & Pepper Chicken Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference Greek Style Chicken & Tzatziki Wrap",
+  "shop": "Sainsbury's",
+  "price": 4.5,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Free From Chicken Feast Sandwich",
+  "shop": "Sainsbury's",
+  "price": 3.25,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Seeded",
+  "range": "Free From",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "High Protein Fajita Halloumi Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Cheese"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "No Mayo Hoisin Duck Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Duck"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference New Yorker Inspired Sandwich",
+  "shop": "Sainsbury's",
+  "price": 4.5,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Rye",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference Burger Style Sandwich",
+  "shop": "Sainsbury's",
+  "price": 4.5,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference Steak & Caramelised Red Onion on Onion Bread",
+  "shop": "Sainsbury's",
+  "price": 4.5,
+  "fillings": [
+   "Onion",
+   "Beef"
+  ],
+  "bread": "Onion bread",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference Prawn Cocktail on Rye Bread",
+  "shop": "Sainsbury's",
+  "price": 4.5,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Rye",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference Ham Hock & Mature Cheddar Sandwich",
+  "shop": "Sainsbury's",
+  "price": 4.5,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference Festive Ham Hock on Onion Bread",
+  "shop": "Sainsbury's",
+  "price": 4.5,
+  "fillings": [
+   "Ham"
+  ],
+  "bread": "Onion bread",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Taste the Difference Korean Chicken Sandwich",
+  "shop": "Sainsbury's",
+  "price": 4.25,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "White",
+  "range": "Premium",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cajun Chicken Wrap",
+  "shop": "Sainsbury's",
+  "price": 3.4,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayo on Malted Bread",
+  "shop": "Sainsbury's",
+  "price": 3.0,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.sainsburys.co.uk (product pages)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Cress Sandwich",
+  "shop": "Asda",
+  "price": 1.5,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Malted",
+  "range": "Value",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "BLT Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheddar Ploughman's Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Sweetcorn Sandwich",
+  "shop": "Asda",
+  "price": 2.2,
+  "fillings": [
+   "Chicken",
+   "Sweetcorn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Mayo Sandwich",
+  "shop": "Asda",
+  "price": 2.2,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Sweetcorn Sandwich",
+  "shop": "Asda",
+  "price": 2.2,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Onion Sandwich",
+  "shop": "Asda",
+  "price": 1.5,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Malted",
+  "range": "Value",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Bacon Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Salad Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Chicken",
+   "Salad"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "All-Day Breakfast Triple Sandwich",
+  "shop": "Asda",
+  "price": 3.0,
+  "fillings": [
+   "Sausage",
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna Mayo Sandwich",
+  "shop": "Asda",
+  "price": 1.5,
+  "fillings": [
+   "Tuna"
+  ],
+  "bread": "White",
+  "range": "Value",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese Sandwich",
+  "shop": "Asda",
+  "price": 1.5,
+  "fillings": [
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Tomato Sandwich",
+  "shop": "Asda",
+  "price": 2.2,
+  "fillings": [
+   "Cheese",
+   "Tomato"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham Sandwich",
+  "shop": "Asda",
+  "price": 1.5,
+  "fillings": [
+   "Ham"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Stuffing Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Chicken",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Triple Sandwich",
+  "shop": "Asda",
+  "price": 3.0,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie, Bacon & Chilli Chutney Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Bacon",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayo Sandwich",
+  "shop": "Asda",
+  "price": 2.75,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Club",
+  "shop": "Asda",
+  "price": 3.0,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Southern Fried Chicken Wrap",
+  "shop": "Asda",
+  "price": 2.82,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Caesar Wrap",
+  "shop": "Asda",
+  "price": 2.87,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Sweet Chilli Chicken Wrap",
+  "shop": "Asda",
+  "price": 2.82,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.trolley.co.uk (Asda listings)",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Caesar Wrap",
+  "shop": "Morrisons",
+  "price": 3.4,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Sweet Chilli Chicken Wrap",
+  "shop": "Morrisons",
+  "price": 3.25,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Christmas Lunch in a Tortilla Wrap",
+  "shop": "Morrisons",
+  "price": 3.4,
+  "fillings": [
+   "Mixed"
+  ],
+  "bread": "Wrap",
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Onion Sandwich",
+  "shop": "Morrisons",
+  "price": 1.8,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Oatmeal",
+  "range": "Value",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Cress Sandwich",
+  "shop": "Morrisons",
+  "price": 1.8,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayo Sandwich",
+  "shop": "Morrisons",
+  "price": 3.0,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Roast Chicken & Bacon Sandwich",
+  "shop": "Morrisons",
+  "price": 3.1,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Turkey Lunch Sandwich",
+  "shop": "Morrisons",
+  "price": 3.4,
+  "fillings": [
+   "Turkey"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Mature Cheese & Pickle Sandwich",
+  "shop": "Morrisons",
+  "price": 2.25,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham & Cheese Sandwich",
+  "shop": "Morrisons",
+  "price": 3.1,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Salad Sandwich",
+  "shop": "Morrisons",
+  "price": 3.15,
+  "fillings": [
+   "Chicken",
+   "Salad"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Stuffing Sandwich",
+  "shop": "Morrisons",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Stuffing"
+  ],
+  "bread": "White",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "BLT Sandwich",
+  "shop": "Morrisons",
+  "price": 3.1,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Pigs Under Blankets Christmas Sandwich",
+  "shop": "Morrisons",
+  "price": 3.4,
+  "fillings": [
+   "Sausage",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Sweetcorn Sandwich",
+  "shop": "Morrisons",
+  "price": 2.3,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Salmon & Cream Cheese Sandwich",
+  "shop": "Morrisons",
+  "price": 3.5,
+  "fillings": [
+   "Salmon",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/categories/fresh-foods/food-to-go/188187",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Christmas Turkey, Stuffing & Bacon Sandwich",
+  "shop": "Waitrose",
+  "price": 4.6,
+  "fillings": [
+   "Turkey",
+   "Bacon",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Christmas Pigs Under Blankets",
+  "shop": "Waitrose",
+  "price": 4.0,
+  "fillings": [
+   "Sausage",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Christmas Vegetable Festive Feast Sandwich",
+  "shop": "Waitrose",
+  "price": 3.75,
+  "fillings": [
+   "Veg"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Christmas Merry Club'mas Sandwich",
+  "shop": "Waitrose",
+  "price": 4.6,
+  "fillings": [
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayo Sandwich",
+  "shop": "Waitrose",
+  "price": 4.35,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg Mayo & Cress Sandwich",
+  "shop": "Waitrose",
+  "price": 2.75,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Salmon & Cream Cheese Sandwich",
+  "shop": "Waitrose",
+  "price": 4.6,
+  "fillings": [
+   "Salmon",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Steak & Caramelised Onion Chutney Sandwich",
+  "shop": "Waitrose",
+  "price": 4.6,
+  "fillings": [
+   "Beef",
+   "Onion"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Hoisin Duck Wrap",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Duck"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Caesar Wrap",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Essential Cheese & Onion Sandwich",
+  "shop": "Waitrose",
+  "price": 1.95,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Classic BLT Sandwich",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Roast Chicken Salad Sandwich",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken",
+   "Salad"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie & Bacon Sandwich",
+  "shop": "Waitrose",
+  "price": 4.0,
+  "fillings": [
+   "Bacon",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Roast Chicken & Bacon Sandwich",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Ham & Cheese Sandwich",
+  "shop": "Waitrose",
+  "price": 3.3,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "All Day Breakfast Sandwich",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Sausage",
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Mature Cheddar Ploughman's Sandwich",
+  "shop": "Waitrose",
+  "price": 3.3,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna Mayo & Sweetcorn Sandwich",
+  "shop": "Waitrose",
+  "price": 3.3,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Triple Sandwich Selection",
+  "shop": "Waitrose",
+  "price": 4.55,
+  "fillings": [
+   "Mixed"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Salt Beef & Mustard Mayo Sandwich",
+  "shop": "Waitrose",
+  "price": 4.6,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheddar & Celery Sandwich",
+  "shop": "Waitrose",
+  "price": 3.35,
+  "fillings": [
+   "Cheese",
+   "Celery"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Sweet Chilli Chicken Wrap",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Southern Fried Chicken Wrap",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Roast Chicken & Stuffing Sandwich",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Piri Piri Chicken Wrap",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Cucumber Sub Roll",
+  "shop": "Waitrose",
+  "price": 4.1,
+  "fillings": [
+   "Tuna",
+   "Cucumber"
+  ],
+  "bread": "Sub roll",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "No.1 The Double Beef & Béarnaise Sandwich",
+  "shop": "Waitrose",
+  "price": 4.95,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Mozzarella & Roasted Tomato Wrap",
+  "shop": "Waitrose",
+  "price": 3.9,
+  "fillings": [
+   "Cheese",
+   "Tomato"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Essential Tuna Mayo Sandwich",
+  "shop": "Waitrose",
+  "price": 1.95,
+  "fillings": [
+   "Tuna"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Seafood Cocktail Sandwich",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "PlantLiving Hoisin No Duck Wrap",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Plant duck"
+  ],
+  "bread": "Wrap",
+  "range": "Plant-based",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Pastrami & Emmental Sandwich",
+  "shop": "Waitrose",
+  "price": 4.55,
+  "fillings": [
+   "Beef",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "No.1 The Perfect Ploughman's Cornish Cheddar Sandwich",
+  "shop": "Waitrose",
+  "price": 4.95,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Coronation Chicken Sandwich",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Spicy Falafel Wrap",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Falafel"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie & Cranberry Sandwich",
+  "shop": "Waitrose",
+  "price": 3.75,
+  "fillings": [
+   "Cheese",
+   "Cranberry"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Essential Egg Mayonnaise Sandwich",
+  "shop": "Waitrose",
+  "price": 2.0,
+  "fillings": [
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Korean Style Chicken Wrap",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Freefrom Turkey Feast Sandwich",
+  "shop": "Waitrose",
+  "price": 4.6,
+  "fillings": [
+   "Turkey"
+  ],
+  "bread": "Sliced",
+  "range": "Free From",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "No.1 The King of Prawn Cocktails Sandwich",
+  "shop": "Waitrose",
+  "price": 4.95,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Avocado Sandwich",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Chicken",
+   "Avocado"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "High Protein Mexican Style Chicken Wrap",
+  "shop": "Waitrose",
+  "price": 4.15,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham Hock & Red Leicester Ploughman's Sandwich",
+  "shop": "Waitrose",
+  "price": 4.6,
+  "fillings": [
+   "Ham",
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Essential Smoked Ham Sandwich",
+  "shop": "Waitrose",
+  "price": 2.2,
+  "fillings": [
+   "Ham"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Spiced Falafel & Feta Wrap",
+  "shop": "Waitrose",
+  "price": 3.9,
+  "fillings": [
+   "Cheese",
+   "Falafel"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Katsu Curry Sando",
+  "shop": "Waitrose",
+  "price": 4.05,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.waitrose.com/ecom/shop/browse/groceries/fresh_and_chilled/food_to_go/sandwiches_and_wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayo Sandwich",
+  "shop": "M&S",
+  "price": 4.3,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Sweetcorn Sandwich",
+  "shop": "M&S",
+  "price": 3.5,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Salmon & Cream Cheese Sandwich",
+  "shop": "M&S",
+  "price": 4.85,
+  "fillings": [
+   "Salmon",
+   "Cheese"
+  ],
+  "bread": "Wholemeal",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Classic Selection",
+  "shop": "M&S",
+  "price": 4.85,
+  "fillings": [
+   "Mixed"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Marmite Sandwich",
+  "shop": "M&S",
+  "price": 3.25,
+  "fillings": [
+   "Cheese",
+   "Marmite"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Tikka Sandwich",
+  "shop": "M&S",
+  "price": 4.3,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Roast Chicken & Bacon Sandwich",
+  "shop": "M&S",
+  "price": 4.2,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Spinach & Falafel Wrap",
+  "shop": "M&S",
+  "price": 4.45,
+  "fillings": [
+   "Falafel"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Roast Chicken & Salad Sandwich",
+  "shop": "M&S",
+  "price": 4.3,
+  "fillings": [
+   "Chicken",
+   "Salad"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Honey Roast Ham & Cheddar Cheese Sandwich",
+  "shop": "M&S",
+  "price": 3.5,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Watercress Sandwich",
+  "shop": "M&S",
+  "price": 2.85,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Onion Sandwich",
+  "shop": "M&S",
+  "price": 2.45,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "New York Deli Pastrami Sandwich",
+  "shop": "M&S",
+  "price": 4.85,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "All Day Breakfast Sandwich",
+  "shop": "M&S",
+  "price": 4.3,
+  "fillings": [
+   "Sausage",
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Hoisin Duck Wrap",
+  "shop": "M&S",
+  "price": 4.3,
+  "fillings": [
+   "Duck"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham & Farmhouse Cheese Toastie",
+  "shop": "M&S",
+  "price": 4.6,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Toastie",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Turkey Feast Christmas Sandwich",
+  "shop": "M&S",
+  "price": 4.6,
+  "fillings": [
+   "Turkey"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Pigs in Blankets Christmas Sandwich",
+  "shop": "M&S",
+  "price": 4.6,
+  "fillings": [
+   "Sausage",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Festive",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Butter Chicken Pocket Naan",
+  "shop": "M&S",
+  "price": 4.85,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Naan",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Bang Bang Chicken Wrap",
+  "shop": "M&S",
+  "price": 4.2,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Butter Chicken Wrap",
+  "shop": "M&S",
+  "price": 4.2,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chocolate, Strawberry & Pistachio Sando",
+  "shop": "M&S",
+  "price": 3.8,
+  "fillings": [
+   "Strawberry",
+   "Chocolate"
+  ],
+  "bread": "White",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Green Goddess Sandwich",
+  "shop": "M&S",
+  "price": 4.85,
+  "fillings": [
+   "Veg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Red Diamond Strawberry & Cream Sando",
+  "shop": "M&S",
+  "price": 3.05,
+  "fillings": [
+   "Strawberry"
+  ],
+  "bread": "White",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoky Halloumi Burrito",
+  "shop": "M&S",
+  "price": 5.4,
+  "fillings": [
+   "Cheese"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Spicy Meatball Wrap",
+  "shop": "M&S",
+  "price": 5.4,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "BLT Sandwich",
+  "shop": "M&S",
+  "price": 4.0,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoky Beef Burrito",
+  "shop": "M&S",
+  "price": 6.0,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://zoom.ocado.com/lunch/sandwiches-wraps/m-s-sandwiches-wraps",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna Mayo Sandwich",
+  "shop": "Co-op",
+  "price": 1.4,
+  "fillings": [
+   "Tuna"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Cress Sandwich",
+  "shop": "Co-op",
+  "price": 1.75,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Malted",
+  "range": "Value",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "All Day Breakfast Sandwich",
+  "shop": "Co-op",
+  "price": 3.25,
+  "fillings": [
+   "Sausage",
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "White",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Sandwich",
+  "shop": "Co-op",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham & Cheese Sandwich",
+  "shop": "Co-op",
+  "price": 3.0,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Stuffing Sandwich",
+  "shop": "Co-op",
+  "price": 3.25,
+  "fillings": [
+   "Chicken",
+   "Stuffing"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Bacon Sandwich",
+  "shop": "Co-op",
+  "price": 3.25,
+  "fillings": [
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna & Sweetcorn Sandwich",
+  "shop": "Co-op",
+  "price": 2.65,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese Sandwich",
+  "shop": "Co-op",
+  "price": 1.4,
+  "fillings": [
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Red Onion Sandwich",
+  "shop": "Co-op",
+  "price": 1.55,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayonnaise Sandwich",
+  "shop": "Co-op",
+  "price": 3.0,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Bacon, Lettuce & Tomato Sandwich",
+  "shop": "Co-op",
+  "price": 3.25,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Mayo Sandwich",
+  "shop": "Co-op",
+  "price": 2.0,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Sweetcorn Sandwich",
+  "shop": "Co-op",
+  "price": 2.65,
+  "fillings": [
+   "Chicken",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Halloumi Wrap",
+  "shop": "Co-op",
+  "price": 3.75,
+  "fillings": [
+   "Cheese"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Peking Duck Wrap",
+  "shop": "Co-op",
+  "price": 3.45,
+  "fillings": [
+   "Duck"
+  ],
+  "bread": "Wrap",
+  "range": "Standard",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Turkey Feast Sandwich",
+  "shop": "Co-op",
+  "price": 3.25,
+  "fillings": [
+   "Turkey"
+  ],
+  "bread": "Malted",
+  "range": "Festive",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Brie & Cranberry Sandwich",
+  "shop": "Co-op",
+  "price": 3.0,
+  "fillings": [
+   "Cheese",
+   "Cranberry"
+  ],
+  "bread": "Malted",
+  "range": "Festive",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "GRO Turk'y Feast Sandwich",
+  "shop": "Co-op",
+  "price": 3.25,
+  "fillings": [
+   "Turkey"
+  ],
+  "bread": "Sliced",
+  "range": "Plant-based",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Festive Onion Bhaji Sandwich",
+  "shop": "Co-op",
+  "price": 3.3,
+  "fillings": [
+   "Onion bhaji"
+  ],
+  "bread": "Sliced",
+  "range": "Plant-based",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Festive Wrap",
+  "shop": "Co-op",
+  "price": 3.5,
+  "fillings": [
+   "Mixed"
+  ],
+  "bread": "Wrap",
+  "range": "Festive",
+  "source": "https://www.coop.co.uk/products/co-op-sandwiches",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Oak Smoked Ham & Cheddar with Mayo Sandwich",
+  "shop": "Aldi",
+  "price": 1.99,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Bacon with Mayo Sandwich",
+  "shop": "Aldi",
+  "price": 1.99,
+  "fillings": [
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Specially Selected New York Deli Pastrami & Emmental Sandwich",
+  "shop": "Aldi",
+  "price": 2.99,
+  "fillings": [
+   "Beef",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Specially Selected Ayrshire Ham Hock & Farmhouse Cheddar Sandwich",
+  "shop": "Aldi",
+  "price": 2.99,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Specially Selected King Prawn & Seafood Cocktail Sandwich",
+  "shop": "Aldi",
+  "price": 2.99,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Tuna Sweetcorn Classic Sandwich",
+  "shop": "Aldi",
+  "price": 1.89,
+  "fillings": [
+   "Tuna",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Prawn Mayonnaise on Malted Brown Bread",
+  "shop": "Aldi",
+  "price": 1.89,
+  "fillings": [
+   "Prawn"
+  ],
+  "bread": "Malted",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese Ploughman's Classic Sandwich",
+  "shop": "Aldi",
+  "price": 1.89,
+  "fillings": [
+   "Cheese",
+   "Pickle"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken Sweetcorn Classic Sandwich",
+  "shop": "Aldi",
+  "price": 1.89,
+  "fillings": [
+   "Chicken",
+   "Sweetcorn"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "All Day Breakfast Sandwich",
+  "shop": "Aldi",
+  "price": 2.59,
+  "fillings": [
+   "Sausage",
+   "Bacon",
+   "Egg"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Classic Selection Sandwich",
+  "shop": "Aldi",
+  "price": 2.59,
+  "fillings": [
+   "Mixed"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Chicken & Bacon Club with Mayo Sandwich",
+  "shop": "Aldi",
+  "price": 2.59,
+  "fillings": [
+   "Chicken",
+   "Bacon"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Cheese & Onion Sandwich",
+  "shop": "Aldi",
+  "price": 1.29,
+  "fillings": [
+   "Onion",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Egg & Cress Sandwich",
+  "shop": "Aldi",
+  "price": 1.29,
+  "fillings": [
+   "Egg",
+   "Cress"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Ham Sandwich",
+  "shop": "Aldi",
+  "price": 1.29,
+  "fillings": [
+   "Ham"
+  ],
+  "bread": "Sliced",
+  "range": "Value",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "BLT Deeper Fill Sandwich",
+  "shop": "Aldi",
+  "price": 2.09,
+  "fillings": [
+   "Bacon",
+   "Salad",
+   "Tomato"
+  ],
+  "bread": "Sliced",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Hunters Chicken Toastie",
+  "shop": "Aldi",
+  "price": 1.99,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Toastie",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Ham & Cheese Toastie",
+  "shop": "Aldi",
+  "price": 1.99,
+  "fillings": [
+   "Ham",
+   "Cheese"
+  ],
+  "bread": "Toastie",
+  "range": "Standard",
+  "source": "https://www.aldi.co.uk/products/chilled-food/food-to-go/k/1588161416978051013",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Steak & Balsamic Chutney",
+  "shop": "Boots",
+  "price": 5.0,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://retailtimes.co.uk/boots-launches-new-christmas-and-premium-meal-deal-range/",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Mozzarella, Chargrilled Peppers & Pesto Mayo",
+  "shop": "Boots",
+  "price": 5.0,
+  "fillings": [
+   "Cheese",
+   "Pesto"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://retailtimes.co.uk/boots-launches-new-christmas-and-premium-meal-deal-range/",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "New York Style Deli",
+  "shop": "Boots",
+  "price": 5.0,
+  "fillings": [
+   "Beef"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://retailtimes.co.uk/boots-launches-new-christmas-and-premium-meal-deal-range/",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Greek Style Chicken",
+  "shop": "Boots",
+  "price": 5.0,
+  "fillings": [
+   "Chicken"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://retailtimes.co.uk/boots-launches-new-christmas-and-premium-meal-deal-range/",
+  "checked": "2026-11-17"
+ },
+ {
+  "name": "Smoked Salmon & Soft Cheese",
+  "shop": "Boots",
+  "price": 5.0,
+  "fillings": [
+   "Salmon",
+   "Cheese"
+  ],
+  "bread": "Sliced",
+  "range": "Premium",
+  "source": "https://retailtimes.co.uk/boots-launches-new-christmas-and-premium-meal-deal-range/",
+  "checked": "2026-11-17"
+ }
+]

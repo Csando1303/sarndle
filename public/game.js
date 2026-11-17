@@ -1,5 +1,6 @@
-// Server-side game logic. Runs in the Cloudflare Pages Function (functions/api/guess.js) and in tests.
-// The daily answer is derived from SARNDLE_SECRET, so it can't be worked out from the public page or this file.
+// Game logic, shared by the browser (public/index.html), the Cloudflare Pages Function (functions/api/guess.js) and tests.
+// On Cloudflare the answer comes from SARNDLE_SECRET on the server. On static hosting (GitHub Pages) the page runs this
+// itself with a public seed, so the answer can be worked out by reading the source.
 // A sandwich is [name, shop, price £, fillings[], bread, range].
 
 export const MAX = 6;

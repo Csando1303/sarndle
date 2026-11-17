@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { handle, pick, key, londonDate, MAX } from "../lib/game.js";
+import { handle, pick, key, londonDate, MAX } from "../public/game.js";
 
 const list = JSON.parse(readFileSync(new URL("../public/sandwiches.json", import.meta.url)));
 const secret = "test-secret";

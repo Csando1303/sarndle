@@ -16,6 +16,8 @@ export function londonDate(d) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/London", year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
 }
 export const addDays = (date, n) => new Date(Date.parse(date) + n * DAY).toISOString().slice(0, 10);
+export const isDay = d => typeof d === "string" && /^\d{4}-\d{2}-\d{2}$/.test(d) && !isNaN(Date.parse(d)) && addDays(d, 0) === d;
+export const dayFromNumber = n => addDays(LAUNCH, n - 1);
 export const dayNumber = date => Math.round((Date.parse(date) - Date.parse(LAUNCH)) / DAY) + 1;
 
 // Secret, stable order of the whole list: sort by HMAC(secret, sandwich key).
@@ -63,10 +65,11 @@ export function cols(s, ans) {
 // The answer is only included once the game is over (won, or 6 guesses).
 export async function handle(body, { secret, list, now }) {
   if (!body || typeof body !== "object") return { status: 400, body: { error: "bad request" } };
-  const today = londonDate(now), yesterday = addDays(today, -1);
+  const today = londonDate(now);
   let day = body.day, raw = Array.isArray(body.guesses) ? body.guesses.slice(0, 20) : [];
-  // Allow yesterday so a game started just before midnight can finish. Anything else (stale, future, wrong clock) restarts on today.
-  if (day !== today && !(day === yesterday && yesterday >= LAUNCH)) { day = today; raw = []; }
+  // Any day from #1 to today can be played (the archive; also lets a game started before midnight finish).
+  // Future days, bad dates or a wrong clock restart on today.
+  if (!isDay(day) || day < LAUNCH || day > today) { day = today; raw = []; }
 
   const idx = new Map(list.map((s, i) => [key(s), i]));
   const ans = await pick(list, secret, day), ak = key(ans);

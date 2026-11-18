@@ -57,10 +57,16 @@ button.sm{padding:6px 10px;font-size:13px;background:#a33}#a-msg{font-weight:700
 body.cb{--g:#f5793a;--y:#85c0f9}
 @media(prefers-color-scheme:dark){:root{--bg:#1d1813;--ink:#f3e9dc;--card:#2a231c;--r:#5b544b}.name{border-color:#4a3d2f}.share{background:#1d1813}.note{background:#3a3020}.list div:hover,.list div.on{background:#3a3020}input,select{color:var(--ink)}}
 .hint{text-align:center;margin:10px 0}.hint button{background:none;color:var(--crust);border:2px solid var(--crust);padding:8px 14px;font-size:14px}
+.arcnote{text-align:center}.arcnote a{color:var(--crust);font-weight:700}
+.arclist{display:flex;flex-direction:column;gap:6px;margin:10px 0 14px}
+.arclist a{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 12px;border:2px solid #e7d7bd;border-radius:10px;color:var(--ink);text-decoration:none;font-size:14px}
+.arclist a:hover{background:#f3e6cf}.arclist a.cur{border-color:var(--crust)}.arclist b{white-space:nowrap}
+@media(prefers-color-scheme:dark){.arclist a{border-color:#4a3d2f}.arclist a:hover{background:#3a3020}}
 .tog{display:flex;gap:8px;align-items:center;justify-content:center;margin:12px 0;font-size:14px}
 </style></head><body><div class="wrap">
-<div class="top"><button class="icon" id="helpbtn" title="How to play">❓</button><h1>🥪 SARNDLE</h1><button class="icon" id="statsbtn" title="Stats">📊</button></div>
-<div id="game"><div class="sub">Guess today's UK supermarket sandwich in 6 tries</div>
+<div class="top"><button class="icon" id="helpbtn" title="How to play">❓</button><h1>🥪 SARNDLE</h1><span style="display:flex"><button class="icon" id="arcbtn" title="Archive: play past days">📅</button><button class="icon" id="statsbtn" title="Stats">📊</button></span></div>
+<div id="game"><div class="sub" id="sub">Guess today's UK supermarket sandwich in 6 tries</div>
+<div class="note arcnote" id="arcbar" hidden></div>
 
 <div class="meta"><span id="day"></span><span id="left"></span></div><div class="hint" id="hint" hidden></div>
 <div class="grid"><div class="row head"><div>🥪 Sandwich</div><div>🏪 Supermarket</div><div>💷 Price</div><div>🥓 Filling</div><div>🍞 Bread</div><div>🏷️ Range</div></div><div id="rows"></div></div><div class="bar" id="bar"><input id="q" placeholder="Type a sandwich…" autocomplete="off" enterkeyhint="go"><button id="go">🔍 Guess</button></div><div class="list" id="list" hidden></div>
@@ -73,8 +79,9 @@ body.cb{--g:#f5793a;--y:#85c0f9}
 <p>Guess today's UK supermarket sandwich in <b>6 tries</b>. Start typing and pick a sandwich from the list.</p>
 <ul><li>🟩 <b>Green</b>: exactly right</li><li>🟨 <b>Yellow</b>: close. Price within 50p, some fillings in common, or a similar kind of bread</li><li>⬛ <b>Grey</b>: wrong</li><li>↑ ↓ The real price is higher or lower</li></ul>
 <p>Clues: 🏪 Supermarket · 💷 Price · 🥓 Filling · 🍞 Bread · 🏷️ Range (Value, Standard, Premium, Festive, Plant-based or Free From)</p>
-<p>Stuck? After 3 guesses you can reveal a hint.</p><p>A new sarnie arrives every day at midnight (UK time). Prices come from supermarket websites and may differ in store. Sarndle isn't affiliated with any supermarket.</p><label class="tog"><input type="checkbox" id="cbmode" style="flex:0"> Colour-blind friendly colours</label>
+<p>Stuck? After 3 guesses you can reveal a hint.</p><p>Missed a day? Tap 📅 to play past sarnies from the archive.</p><p>A new sarnie arrives every day at midnight (UK time). Prices come from supermarket websites and may differ in store. Sarndle isn't affiliated with any supermarket.</p><label class="tog"><input type="checkbox" id="cbmode" style="flex:0"> Colour-blind friendly colours</label>
 <button id="helpok">Let's eat 🥪</button></div></div>
+<div class="modal" id="arcm" hidden><div class="box"><h2>📅 Archive</h2><p style="margin-top:0;opacity:.8">Play any day you missed. Archive games don't count towards your stats or streak.</p><div id="arclist" class="arclist"></div><button id="arcok">Close</button></div></div>
 <div class="modal" id="statsm" hidden><div class="box" style="text-align:center"><h2>📊 Your stats</h2><div id="statsbody"></div><p id="countdown" style="font-weight:700"></p><button id="statsok">Close</button></div></div>
 <script>
 // The sandwich list (sandwiches.json) is public: it's used for the search box and pictures.
@@ -90,8 +97,23 @@ const MAX=6;
 const SITE_URL=/^https?:$/.test(location.protocol)&&!/claude/.test(location.hostname)?location.origin+location.pathname.replace(/index\.html$/,""):"https://claude.ai/artifact/A22oHadBzEkCn5L2a7QeAa";
 let S=[],res=null,ans=null,busy=false,err="";
 const loadDay=new Date().toLocaleDateString("en-CA",{timeZone:"Europe/London"});let today=loadDay;
-// sarndle-v2: {day, g:[guess keys], hint}. The server's answer to these guesses is in `res`.
-let st=store.get("sarndle-v2")||{};if(st.day!==today||!Array.isArray(st.g))st={day:today,g:[]};delete st.ans;
+// Day numbers: #1 = LAUNCH (same as game.js).
+const LAUNCH="2026-11-17",addDays=(d,n)=>new Date(Date.parse(d)+n*864e5).toISOString().slice(0,10);
+const dayNo=d=>Math.round((Date.parse(d)-Date.parse(LAUNCH))/864e5)+1,dayOf=n=>addDays(LAUNCH,n-1);
+const nice=d=>new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short",timeZone:"UTC"});
+// Archive: ?d=N plays Sarndle #N (any past day). Today's number, a future one or rubbish just plays today.
+const arcN=parseInt(new URLSearchParams(location.search).get("d"),10);
+const ARC=arcN>=1&&dayOf(arcN)<loadDay?dayOf(arcN):null;
+if(!ARC&&new URLSearchParams(location.search).has("d"))history.replaceState(null,"",location.pathname);
+// sarndle-v2: today's {day, g:[guess keys], hint}. sarndle-archive: {day: {day, g, hint}} for past days.
+// sarndle-history: {day: guesses taken to win, or 0 for a loss}, for the archive list.
+// The server's answer to these guesses is in `res`.
+let st;
+if(ARC){st=(store.get("sarndle-archive")||{})[ARC]||{};if(st.day!==ARC||!Array.isArray(st.g))st={day:ARC,g:[]}}
+else{st=store.get("sarndle-v2")||{};if(st.day!==today||!Array.isArray(st.g))st={day:today,g:[]}}
+delete st.ans;
+function saveSt(){if(ARC){const a=store.get("sarndle-archive")||{};a[ARC]=st;store.set("sarndle-archive",a)}else store.set("sarndle-v2",st)}
+function recordHistory(day,won,n){const h=store.get("sarndle-history")||{};if(day in h)return;h[day]=won?n:0;store.set("sarndle-history",h)}
 // ---- sandwich picture ----
 const FC={Chicken:"#e3a857",Bacon:"#c0392b",Ham:"#f4a3a8",Cheese:"#f7c948",Egg:"#ffe066",Tuna:"#d9c4a0",Prawn:"#ff9e80",Salmon:"#ff8a65",Beef:"#8d4b3b",Turkey:"#d8b07a",Sausage:"#9c5530",Salad:"#5fae3e",Tomato:"#e74c3c",Cress:"#9bd56b",Cucumber:"#7cbf4a",Sweetcorn:"#ffd54f",Stuffing:"#a1887f",Cranberry:"#b71c1c",Pickle:"#6d4c41",Onion:"#d6a6e0",Duck:"#7b3f2a",Pork:"#d9967a",Falafel:"#9c7a3c",Houmous:"#e6c99a",Avocado:"#8bc34a",Pesto:"#4e8a2e",Strawberry:"#e53950",Chocolate:"#5d3a1a",Marmite:"#3b2314",Celery:"#a5d66b",Veg:"#66bb6a",Mixed:"#e0a96d"};
 const fc=f=>FC[f]||(/plant/i.test(f)?"#a5b56b":"#e0a96d");
@@ -127,6 +149,15 @@ setInterval(()=>{const c=countdown();document.querySelectorAll(".cd,#countdown")
 function openStats(){const t=stats(),mx=Math.max(1,...t.dist),todayN=(res&&res.won)?res.results.length:0;
  $("statsbody").innerHTML=`<div class="stats"><div><b>${t.played}</b>Played</div><div><b>${t.played?Math.round(t.wins/t.played*100):0}%</b>Won</div><div><b>${t.streak}</b>Streak</div><div><b>${t.best}</b>Best</div></div><div class="dist">${t.dist.map((v,i)=>`<div>${i+1}<span class="${todayN===i+1?"me":""}" style="width:${Math.max(8,v/mx*100)}%">${v}</span></div>`).join("")}</div>`;
  $("countdown").textContent=countdown();$("statsm").hidden=false}
+function openArchive(){const h=store.get("sarndle-history")||{},a=store.get("sarndle-archive")||{},cur=ARC||today,rows=[];
+ for(let n=dayNo(loadDay);n>=1;n--){const d=dayOf(n),isToday=d===loadDay,href=isToday?"./":"?d="+n;
+  const g=isToday?(store.get("sarndle-v2")||{}):a[d]||{},going=g.day===d&&Array.isArray(g.g)&&g.g.length;
+  const s=d in h?(h[d]?`✅ ${h[d]}/${MAX}`:"❌ X/"+MAX):going?`⏳ ${g.g.length}/${MAX}`:"▶️ Play";
+  rows.push(`<a href="${href}" class="${d===cur?"cur":""}"><span><b>#${n}</b> · ${isToday?"Today":nice(d)}</span><b>${s}</b></a>`)}
+ $("arclist").innerHTML=rows.join("");$("arcm").hidden=false}
+$("arcbtn").onclick=openArchive;$("arcok").onclick=()=>$("arcm").hidden=true;
+if(ARC){$("sub").textContent="Guess the sarnie from "+nice(ARC)+" in 6 tries";
+ $("arcbar").innerHTML=`📅 Archive: Sarndle #${dayNo(ARC)} (${nice(ARC)}). Doesn't count towards your stats. <a href="./">Back to today</a>`;$("arcbar").hidden=false}
 $("statsbtn").onclick=openStats;$("statsok").onclick=()=>$("statsm").hidden=true;
 $("helpbtn").onclick=()=>$("help").hidden=false;$("helpok").onclick=()=>{$("help").hidden=true;store.set("sarndle-seen",1)};
 if(!store.get("sarndle-seen"))$("help").hidden=false;
@@ -149,7 +180,7 @@ async function api(guesses,hint){const body={day:st.day,guesses,hint:!!hint};
 // Take the server's view as the truth: its day, and only the guesses it accepted.
 function apply(r){
  if(r.day!==st.day){st={day:r.day,g:[]};}
- st.g=r.results.map(x=>x.k);today=r.day;res=r;ans=r.answer||null;store.set("sarndle-v2",st)}
+ st.g=r.results.map(x=>x.k);if(!ARC)today=r.day;res=r;ans=r.answer||null;saveSt()}
 // ---- game ----
 const q=$("q"),list=$("list");
 const byKey=k=>S.find(x=>key(x)===k);
@@ -160,20 +191,21 @@ function row(r){const s=byKey(r.k)||[r.k.split("|")[0],r.k.split("|")[1]],cs=r.c
 function render(){
  const rs=res?res.results:[],won=!!(res&&res.won),done=!!(res&&res.done);
  $("rows").innerHTML="";rs.forEach(row);
- $("day").textContent=res?"Sarndle #"+res.dayNo:"Sarndle";
+ $("day").textContent=res?"Sarndle #"+res.dayNo+(ARC?" · "+nice(res.day):""):"Sarndle";
  $("left").textContent=err?"⚠️ "+err:!res?"Loading…":done?"":`${MAX-rs.length} guesses left`;
  q.disabled=$("go").disabled=!res||done||busy;$("bar").hidden=done;q.placeholder=busy?"Checking…":"Type a sandwich…";
  const h=$("hint");h.hidden=!res||done||rs.length<3;
  if(!h.hidden)h.innerHTML=res.hint?`💡 Hint: it ${res.hint.filling?`contains <b>${esc(res.hint.filling)}</b> and `:""}costs between £${res.hint.price.toFixed(2)} and £${(res.hint.price+1).toFixed(2)}`:`<button id="hintb">💡 Show a hint</button>`;
- if(!h.hidden&&!res.hint)$("hintb").onclick=async()=>{st.hint=1;store.set("sarndle-v2",st);try{apply(await api(st.g,1));err=""}catch(e){err="Couldn't get a hint. Try again."}render()};
+ if(!h.hidden&&!res.hint)$("hintb").onclick=async()=>{st.hint=1;saveSt();try{apply(await api(st.g,1));err=""}catch(e){err="Couldn't get a hint. Try again."}render()};
  const e=$("end");e.hidden=!done;
- if(done&&ans){recordStats(won,rs.length);
+ if(done&&ans){if(!ARC)recordStats(won,rs.length);recordHistory(res.day,won,rs.length);
   const sq={g:"🟩",y:"🟨",r:"⬛"},n=rs.length;
   const title=won?["","🤯 Sarnie Psychic!","🔥 Bread Genius!","😎 Meal Deal Master!","👌 Solid Snacker","😅 Close Shave","😰 Last Crumb!"][n]:"🥲 Went hungry today";
   const grid=rs.map(r=>{const c=r.c;return c.map(x=>sq[x[0]]).join("")+(c[1][1].includes("↑")?" 💷⬆️":c[1][1].includes("↓")?" 💷⬇️":" 💷✅")}).join("\n");
-  const share=`🥪 SARNDLE #${res.dayNo} 🥪\n${title}  ${won?n:"X"}/${MAX}${st.hint?" 💡":""}\n\n🏪💷🥓🍞🏷️\n${grid}\n\nGuess the sarnie 👉 ${SITE_URL}`;
-  e.innerHTML=`<div class="pic ${won?"":"lose"}">${sandwichSVG(ans)}</div><h2>${won?"🎉 Got it!":"😢 Unlucky"}</h2><p>Today's sarnie: <b>${esc(label(ans))}</b></p><pre class="share">${esc(share)}</pre><button id="sh">📋 Copy result</button> <button id="st2">📊 Stats</button><p class="cd"></p>`;
-  $("st2").onclick=openStats;
+  const link=ARC?SITE_URL+"?d="+res.dayNo:SITE_URL;
+  const share=`🥪 SARNDLE #${res.dayNo}${ARC?" (archive)":""} 🥪\n${title}  ${won?n:"X"}/${MAX}${st.hint?" 💡":""}\n\n🏪💷🥓🍞🏷️\n${grid}\n\nGuess the sarnie 👉 ${link}`;
+  e.innerHTML=`<div class="pic ${won?"":"lose"}">${sandwichSVG(ans)}</div><h2>${won?"🎉 Got it!":"😢 Unlucky"}</h2><p>${ARC?"The sarnie for "+nice(res.day):"Today's sarnie"}: <b>${esc(label(ans))}</b></p><pre class="share">${esc(share)}</pre><button id="sh">📋 Copy result</button> ${ARC?`<button id="arc2">📅 Play another day</button> <a class="foot" href="./" style="display:block;margin-top:12px">Back to today's sarnie</a>`:`<button id="st2">📊 Stats</button> <button id="arc2">📅 Archive</button><p class="cd"></p>`}`;
+  if($("st2"))$("st2").onclick=openStats;$("arc2").onclick=openArchive;
   $("sh").onclick=()=>{try{navigator.clipboard.writeText(share).then(()=>$("sh").textContent="✅ Copied!",()=>{})}catch(err){}}}
 }
 let sel=0,matches=[];

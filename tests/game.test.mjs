@@ -38,15 +38,37 @@ test("unknown, duplicate and extra guesses are dropped", async () => {
   assert.equal(r.body.results[0].k, wrong[0]);
 });
 
-test("future or stale days restart on today; yesterday is allowed", async () => {
+test("future, pre-launch and bad days restart on today", async () => {
   const g = [key(list[0])];
-  let r = await call({ day: "2026-11-25", guesses: g }, at("2026-11-20"));
-  assert.equal(r.body.day, "2026-11-20");
-  assert.equal(r.body.results.length, 0);
-  r = await call({ day: "2026-11-19", guesses: g }, at("2026-11-20"));
-  assert.equal(r.body.day, "2026-11-19");
-  assert.equal(r.body.results.length, 1);
-  assert.equal(r.body.dayNo, 3);
+  for (const day of ["2026-11-25", "2026-11-16", "2026-02-30", "nope", 5, undefined]) {
+    const r = await call({ day, guesses: g }, at("2026-11-20"));
+    assert.equal(r.body.day, "2026-11-20", String(day));
+    assert.equal(r.body.results.length, 0);
+  }
+});
+
+test("archive: any past day back to #1 can be played, with its own answer", async () => {
+  const now = at("2026-12-01");
+  for (const [day, no] of [["2026-11-17", 1], ["2026-11-19", 3], ["2026-11-30", 14]]) {
+    const ans = await pick(list, secret, day);
+    const r = await call({ day, guesses: [key(ans)] }, now);
+    assert.equal(r.body.day, day);
+    assert.equal(r.body.dayNo, no);
+    assert.equal(r.body.won, true);
+    assert.deepEqual(r.body.answer, ans);
+  }
+});
+
+test("archive answers stay hidden until the game is over", async () => {
+  const ans = await pick(list, secret, "2026-11-18");
+  const wrong = list.filter(s => key(s) !== key(ans)).map(key);
+  const r = await call({ day: "2026-11-18", guesses: wrong.slice(0, 3) }, at("2026-11-25"));
+  assert.equal(r.body.answer, undefined);
+});
+
+test("day numbers round-trip", async () => {
+  const { dayNumber, dayFromNumber } = await import("../public/game.js");
+  for (const n of [1, 2, 45, 400]) assert.equal(dayNumber(dayFromNumber(n)), n);
 });
 
 test("hint only after 3 guesses", async () => {

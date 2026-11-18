@@ -17,6 +17,8 @@ Bread (green exact, yellow same family: sliced / rolls / wraps / toastie), Range
 
 ## How the daily sandwich is chosen
 - `pick(list, secret, date)` in `public/game.js`: list sorted by HMAC(secret, sandwich), walked one step per day since LAUNCH (2026-11-17 = #1). No repeats until all used. Festive range only in Nov/Dec.
+- Archive: `handle()` accepts any day from LAUNCH to today (future/bad days restart on today). The page plays Sarndle #N at `?d=N`, and the 📅 button lists every day.
+  Archive games don't count towards stats or streaks, and their share text links to `?d=N`.
 
 ## Hosting
 - **GitHub Pages (live)**: `.github/workflows/static.yml` publishes `public/` on every push to `main`. There's no backend, so `POST api/guess`
@@ -31,7 +33,7 @@ Bread (green exact, yellow same family: sliced / rolls / wraps / toastie), Range
 - Share text uses `SITE_URL`: the page's own URL when it's served over http(s), or the claude.ai artifact URL otherwise (file:// or inside claude.ai).
 
 ## Local state (localStorage)
-`sarndle-v2` (today's guesses: `{day, g, hint}`), `sarndle-stats`, `sarndle-seen`, `sarndle-cb` (colour-blind mode).
+`sarndle-v2` (today's guesses: `{day, g, hint}`), `sarndle-archive` (`{day: {day, g, hint}}` for past days), `sarndle-history` (`{day: guesses to win, 0 = lost}`, today's and archive games, for the 📅 list), `sarndle-stats` (today's games only), `sarndle-seen`, `sarndle-cb` (colour-blind mode).
 
 ## Sides & drinks (planned: full meal deal)
 - `data/build_extras.py` → `data/sides.csv/json`, `data/drinks.csv/json` (one row per shop) and `*_products.json` (merged by product, `shops: {shop: price}`).

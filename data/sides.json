@@ -1,0 +1,3309 @@
+[
+ {
+  "name": "The Gym Kitchen Chicken Tikka Bites 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.3,
+  "brand": "The Gym Kitchen",
+  "maker": "The Gym Kitchen",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken"
+  ],
+  "weight_g": 45.0,
+  "chilled": true,
+  "range": "Protein",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tesco Vegetable Samosa 110g",
+  "shop": "Tesco",
+  "price_gbp": 2.0,
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Vegetable"
+  ],
+  "weight_g": 110.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tesco Mini Savoury Eggs 65g",
+  "shop": "Tesco",
+  "price_gbp": null,
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg",
+   "Pork"
+  ],
+  "weight_g": 65.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tesco Egg Protein Pot 90g",
+  "shop": "Tesco",
+  "price_gbp": 1.4,
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg"
+  ],
+  "weight_g": 90.0,
+  "chilled": true,
+  "range": "Protein",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fridge Raiders Slow Roasted Chicken Bites 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Fridge Raiders",
+  "maker": "Pilgrim's",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken"
+  ],
+  "weight_g": 45.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Taste Original Chicken Satay Snack 40g",
+  "shop": "Tesco",
+  "price_gbp": 1.3,
+  "brand": "Taste Original",
+  "maker": "Taste Original",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken",
+   "Satay"
+  ],
+  "weight_g": 40.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tesco 2 Mini Melton Mowbray Pork Pies 100g",
+  "shop": "Tesco",
+  "price_gbp": 1.4,
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "weight_g": 100.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Wall's Large Pork Sausage Roll 100g",
+  "shop": "Tesco",
+  "price_gbp": 1.3,
+  "brand": "Wall's",
+  "maker": "Pork Farms",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "weight_g": 100.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tesco Egg & Salad Cream 130g",
+  "shop": "Tesco",
+  "price_gbp": 1.4,
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg"
+  ],
+  "weight_g": 130.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fridge Raiders Southern Style Chicken Bites 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Fridge Raiders",
+  "maker": "Pilgrim's",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken",
+   "Spicy"
+  ],
+  "weight_g": 45.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Higgidy Cheddar & Caramelised Onion Chutney Rolls x2 54g",
+  "shop": "Tesco",
+  "price_gbp": 1.5,
+  "brand": "Higgidy",
+  "maker": "Samworth Brothers",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese",
+   "Onion"
+  ],
+  "weight_g": 54.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Strings & Things Cheestrings Twin Pack 40g",
+  "shop": "Tesco",
+  "price_gbp": 1.3,
+  "brand": "Cheestrings",
+  "maker": "Kerry",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 40.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Peperami Original Salami 22.5g",
+  "shop": "Tesco",
+  "price_gbp": 1.3,
+  "brand": "Peperami",
+  "maker": "Jack Link's",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "weight_g": 22.5,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tesco Green Olives With Herbs 60g",
+  "shop": "Tesco",
+  "price_gbp": 1.4,
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "type": "Dips & olives",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Olive"
+  ],
+  "weight_g": 60.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tesco Cocktail Sausages & Ketchup Dip 98g",
+  "shop": "Tesco",
+  "price_gbp": 1.3,
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Tomato",
+   "Pork"
+  ],
+  "weight_g": 98.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Higgidy Ham Hock & Cheddar Sausage Rolls x2 54g",
+  "shop": "Tesco",
+  "price_gbp": 1.5,
+  "brand": "Higgidy",
+  "maker": "Samworth Brothers",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork",
+   "Cheese"
+  ],
+  "weight_g": 54.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Peperami Red Hot Stick 22.5g",
+  "shop": "Tesco",
+  "price_gbp": 1.3,
+  "brand": "Peperami",
+  "maker": "Jack Link's",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Spicy",
+   "Pork"
+  ],
+  "weight_g": 22.5,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Jacob's Mini Cheddars Original Grab Bag 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.1,
+  "brand": "Jacob's",
+  "maker": "Pladis",
+  "type": "Crackers",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Discos Salt & Vinegar Grab Bag Crisps 50g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "Discos",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pringles Original Snacking Crisps 40g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "Pringles",
+  "maker": "Kellanova",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pringles Sour Cream & Onion Snacking Crisps 40g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "Pringles",
+  "maker": "Kellanova",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sour cream & onion"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Hula Hoops Big Hoops Salt & Vinegar Grab Bag 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Baked Sea Salt Crisps 37.5g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 37.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Cheddar & Onion Grab Bag Crisps 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nik Naks Nice 'N' Spicy Grab Bag Crisps 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "Nik Naks",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Thai Sweet Chicken Grab Bag Crisps 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet chilli"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Baked Cheese & Onion Grab Bag Crisps 37.5g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "weight_g": 37.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Hula Hoops Big Hoops Salted Grab Bag 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Salt & Vinegar Grab Bag Crisps 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Flame Grilled Steak Grab Bag 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Beef"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Hula Hoops Big Hoops Barbecue Beef 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ",
+   "Beef"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Sizzling King Prawn Grab Bag Crisps 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Propercorn Sweet & Salty 30g",
+  "shop": "Tesco",
+  "price_gbp": 1.15,
+  "brand": "Propercorn",
+  "maker": "Propercorn",
+  "type": "Popcorn",
+  "family": "Salty",
+  "flavours": [
+   "Sweet & salty"
+  ],
+  "weight_g": 30.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Wotsits Cheese Grab Bag 36g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Wotsits",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 36.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Ready Salted Grab Bag Crisps 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Squares Salt & Vinegar Grab Bag 40g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Quavers Cheese Grab Bag 34g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Quavers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 34.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Cheese & Onion Grab Bag Crisps 45g",
+  "shop": "Tesco",
+  "price_gbp": 1.35,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kinder Bueno Bar 43g",
+  "shop": "Tesco",
+  "price_gbp": 1.0,
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "weight_g": 43.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kinder Bueno White 39g",
+  "shop": "Tesco",
+  "price_gbp": 1.0,
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "White chocolate",
+   "Hazelnut"
+  ],
+  "weight_g": 39.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "KitKat 4 Finger Milk Chocolate Bar 41.5g",
+  "shop": "Tesco",
+  "price_gbp": 1.0,
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "weight_g": 41.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nutella & Go! Hazelnut Spread and Breadsticks 48g",
+  "shop": "Tesco",
+  "price_gbp": null,
+  "brand": "Nutella",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "weight_g": 48.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Ferrero Rocher 3 Pack 37.5g",
+  "shop": "Tesco",
+  "price_gbp": 1.65,
+  "brand": "Ferrero Rocher",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "weight_g": 37.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Wispa Gold Chocolate & Caramel Bar 48g",
+  "shop": "Tesco",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "weight_g": 48.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Golden Syrup Porridge",
+  "shop": "Morrisons",
+  "price_gbp": 0.55,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Porridge",
+  "family": "Fresh",
+  "flavours": [
+   "Oat",
+   "Syrup"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Original Porridge Pot",
+  "shop": "Morrisons",
+  "price_gbp": 0.55,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Porridge",
+  "family": "Fresh",
+  "flavours": [
+   "Oat"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons 2 Hard Boiled Eggs Pot 90g",
+  "shop": "Morrisons",
+  "price_gbp": 1.55,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg"
+  ],
+  "weight_g": 90.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nutella & Go! Hazelnut Spread and Breadsticks 48g",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Nutella",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "weight_g": 48.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Hula Hoops Big Hoops Barbecue Beef 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ",
+   "Beef"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nomadic Oat Crunch Chocolate & Yogurt",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate",
+   "Yogurt",
+   "Oat"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Hula Hoops Big Hoops Salted Grab Bag 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Ginsters Original Cornish Pasty 130g",
+  "shop": "Morrisons",
+  "price_gbp": 1.65,
+  "brand": "Ginsters",
+  "maker": "Samworth Brothers",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Original"
+  ],
+  "weight_g": 130.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Jumbo Vegetable Samosa",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Vegetable"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Taste Original Chicken Satay With Sweet Chilli Dip 55g",
+  "shop": "Morrisons",
+  "price_gbp": 1.75,
+  "brand": "Taste Original",
+  "maker": "Taste Original",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken",
+   "Satay",
+   "Sweet chilli"
+  ],
+  "weight_g": 55.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Mini Pork Pies (2 per pack)",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Snack Seafood Sticks With Marie Rose Sauce",
+  "shop": "Morrisons",
+  "price_gbp": 2.3,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Seafood",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Fish"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Individual Sausage Roll",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Del Monte Apple, Grape & Strawberry",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Del Monte",
+  "maker": "Del Monte",
+  "type": "Fruit & veg",
+  "family": "Fresh",
+  "flavours": [
+   "Strawberry",
+   "Apple",
+   "Grape"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Carrot Sticks & Houmous",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Fruit & veg",
+  "family": "Fresh",
+  "flavours": [
+   "Houmous",
+   "Vegetable"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Del Monte Pineapple Chunks",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Del Monte",
+  "maker": "Del Monte",
+  "type": "Fruit & veg",
+  "family": "Fresh",
+  "flavours": [
+   "Pineapple"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Graze Oat Boosts Lemon Drizzle Flapjack 50g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Graze",
+  "maker": "Unilever",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Lemon",
+   "Oat"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tyrrells Sea Salted Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Tyrrells",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Maltesers Chocolate & Honeycomb Snack Bag 37g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Maltesers",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Honeycomb",
+   "Malt"
+  ],
+  "weight_g": 37.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Quavers Cheese Grab Bag 34g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Quavers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 34.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Gu Zillionaire Cheesecake",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Gü",
+  "maker": "Gü",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Twix Xtra Chocolate Biscuit Twin Bars 75g",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Twix",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "weight_g": 75.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Maltesers Chocolate Reindeer 29g",
+  "shop": "Morrisons",
+  "price_gbp": 0.7,
+  "brand": "Maltesers",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Malt"
+  ],
+  "weight_g": 29.0,
+  "chilled": false,
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fridge Raiders Slow Roasted Chicken Bites 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "Fridge Raiders",
+  "maker": "Pilgrim's",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken"
+  ],
+  "weight_g": 45.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Twirl Xtra Duo Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Starbar Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons King Prawns With A Sweet Chilli Dip",
+  "shop": "Morrisons",
+  "price_gbp": 2.3,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Seafood",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Sweet chilli",
+   "Prawn"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lindt Lindor Milk Chocolate Treat Bar 38g",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Lindt",
+  "maker": "Lindt",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 38.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Flame Grilled Steak Grab Bag 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Beef"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Wall's Individual Scotch Egg 113g",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Wall's",
+  "maker": "Pork Farms",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg",
+   "Pork"
+  ],
+  "weight_g": 113.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Wotsits Cheese Grab Bag 36g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Wotsits",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "KitKat Chunky Milk Chocolate Duo 64g",
+  "shop": "Morrisons",
+  "price_gbp": 1.3,
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "weight_g": 64.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nomadic Power Pot Vanilla Yogurt & Granola Smooth Caramel",
+  "shop": "Morrisons",
+  "price_gbp": 2.25,
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Caramel",
+   "Vanilla",
+   "Oat"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Monster Munch Sweet & Spicy",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Monster Munch",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Monster Munch Pickled Onion 40g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Monster Munch",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Pickled onion"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Eatlean Protein Cheese Bar 60g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Eatlean",
+  "maker": "Eatlean",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 60.0,
+  "chilled": true,
+  "range": "Protein",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Soreen 2 Malt Loaf Slices 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.3,
+  "brand": "Soreen",
+  "maker": "Soreen",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Malt"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Baked Prawn Cocktail Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nestle Milkybar Medium",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Milkybar",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "White chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kinder Bueno Bar 43g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "weight_g": 43.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Dairy Milk Chocolate Puds 35g",
+  "shop": "Morrisons",
+  "price_gbp": 0.7,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 35.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Ready Salted Grab Bag Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Salt & Vinegar Grab Bag Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "KitKat Santa Milk Chocolate Christmas Figure 29g",
+  "shop": "Morrisons",
+  "price_gbp": 0.7,
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "weight_g": 29.0,
+  "chilled": false,
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Skips Prawn Cocktail Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Skips",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Baked Cheese & Onion Grab Bag Crisps 37.5g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "weight_g": 37.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Cheddar & Onion Grab Bag Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Baked Salt & Vinegar Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Crunchie Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Honeycomb"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Onion Bhaji & Mango Chutney Snack Pot",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Onion",
+   "Chutney"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Millionaire Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.3,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nomadic Power Pot Vanilla Yogurt & Granola & Chocolate Brownie",
+  "shop": "Morrisons",
+  "price_gbp": 2.25,
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate",
+   "Vanilla",
+   "Oat"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kinder Surprise Milk Chocolate Egg Natoons",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Brookie Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Jacob's Mini Cheddars Original Grab Bag 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Jacob's",
+  "maker": "Pladis",
+  "type": "Crackers",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons All Butter Flapjack Bar 50g",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Oat"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Squares Salt & Vinegar Grab Bag 40g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Muller MyProtein Vanilla Yogurt with Chocolate Balls 180g",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Müller",
+  "maker": "Müller",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate",
+   "Vanilla"
+  ],
+  "weight_g": 180.0,
+  "chilled": true,
+  "range": "Protein",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Hot 'N' Spicy Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Baked Sea Salt Crisps 37.5g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 37.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Wispa Duo Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fridge Raiders Southern Style Chicken Bites 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "Fridge Raiders",
+  "maker": "Pilgrim's",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken",
+   "Spicy"
+  ],
+  "weight_g": 45.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers French Fries Worcester Sauce",
+  "shop": "Morrisons",
+  "price_gbp": 0.95,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Worcester sauce"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Brownie Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Graze Oat Boosts Cherry Bakewell Flapjack 50g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Graze",
+  "maker": "Unilever",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Cherry",
+   "Oat"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "McCoy's Thai Sweet Chicken Grab Bag Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet chilli"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Twirl Orange",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Orange"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Boost Duo Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Sensations Thai Sweet Chilli Grab Bag Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet chilli"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Dairylea Dunkers Jumbo 41g",
+  "shop": "Morrisons",
+  "price_gbp": 1.3,
+  "brand": "Dairylea",
+  "maker": "Mondelez",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 41.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "KitKat 4 Finger Milk Chocolate Bar 41.5g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "weight_g": 41.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Maltesers Gingerbread Chocolate Reindeer 29g",
+  "shop": "Morrisons",
+  "price_gbp": 0.7,
+  "brand": "Maltesers",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Ginger",
+   "Malt"
+  ],
+  "weight_g": 29.0,
+  "chilled": false,
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Popchips Sea Salt",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Prawn Cocktail Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Starbar Duo",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Yorkie Original Duo",
+  "shop": "Morrisons",
+  "price_gbp": 1.3,
+  "brand": "Yorkie",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Bounty Coconut & Chocolate Duo 57g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Bounty",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Coconut"
+  ],
+  "weight_g": 57.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Activia Fibre Yogurt & Red Berries Granola 165g",
+  "shop": "Morrisons",
+  "price_gbp": 1.7,
+  "brand": "Activia",
+  "maker": "Danone",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Berry",
+   "Oat"
+  ],
+  "weight_g": 165.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Strings & Things Cheestrings Twin Pack 40g",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "Cheestrings",
+  "maker": "Kerry",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 40.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "M&M's Crispy Milk Chocolate Christmas Santa 29g",
+  "shop": "Morrisons",
+  "price_gbp": 0.7,
+  "brand": "M&M's",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 29.0,
+  "chilled": false,
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Double Decker Duo Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fruitella Strawberry Stick 40g",
+  "shop": "Morrisons",
+  "price_gbp": 0.75,
+  "brand": "Fruitella",
+  "maker": "Perfetti",
+  "type": "Sweets",
+  "family": "Sweet",
+  "flavours": [
+   "Strawberry"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kinder Bueno White 39g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "White chocolate",
+   "Hazelnut"
+  ],
+  "weight_g": 39.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Galaxy Caramel Milk Chocolate Bar 48g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Galaxy",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "weight_g": 48.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Popchips Barbecue",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nomadic Protein Pudding Chocolate 200g",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 200.0,
+  "chilled": true,
+  "range": "Protein",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Smoky Bacon Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Bacon"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kinder Surprise Milk Chocolate Egg 20g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 20.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Lea & Perrins Worcester Sauce Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Worcester sauce"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Chocolate Caramel Tiffin Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cuzena Chip & Dip Jalapeno Houmous With Toasted Pretzels",
+  "shop": "Morrisons",
+  "price_gbp": 2.7,
+  "brand": "Cuzena",
+  "maker": "Cuzena",
+  "type": "Dips & olives",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Spicy",
+   "Houmous"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Boost Chocolate Bar 48.5g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 48.5,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Heinz Tomato Ketchup Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Tomato"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Wispa",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Double Decker Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Yorkie Brownie Duo",
+  "shop": "Morrisons",
+  "price_gbp": 1.3,
+  "brand": "Yorkie",
+  "maker": "Nestlé",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Sensations Mature Cheddar & Chilli Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy",
+   "Cheese"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons All Butter Flapjack Bar 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Oat"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Graze Oat Boosts Cocoa & Vanilla Flapjack 50g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Graze",
+  "maker": "Unilever",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Vanilla",
+   "Oat"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Twirl Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nik Naks Nice 'N' Spicy Grab Bag Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Nik Naks",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Galaxy Milk Chocolate Bar 42g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Galaxy",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 42.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Rocky Road With Belgian Milk Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers BBQ Sauce Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Wispa Gold Chocolate & Caramel Bar 48g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "weight_g": 48.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Chocolate Brownie Bar 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nomadic Yogurt And Oat Bar Chocolate",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "type": "Snack bar",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Yogurt",
+   "Oat"
+  ],
+  "weight_g": null,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Yorkie Brownie",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Yorkie",
+  "maker": "Nestlé",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cheez-It Snap'd Cheese & Chilli 40g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cheez-It",
+  "maker": "Kellanova",
+  "type": "Crackers",
+  "family": "Salty",
+  "flavours": [
+   "Spicy",
+   "Cheese"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Salt & Vinegar Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Discos Salt & Vinegar Grab Bag Crisps 50g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Discos",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Dairy Milk Caramel",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kinder Milk Chocolate Medium Bars",
+  "shop": "Morrisons",
+  "price_gbp": 0.9,
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Galaxy Ripple Chocolate Bar 30g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Galaxy",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": 30.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Twix Caramel Biscuit Chocolate Bars 50g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Twix",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lion Milk Duo",
+  "shop": "Morrisons",
+  "price_gbp": 1.3,
+  "brand": "Lion",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Roast Chicken Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Chicken"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Properchips Barbecue Lentil Chips",
+  "shop": "Morrisons",
+  "price_gbp": 1.35,
+  "brand": "Proper",
+  "maker": "Propercorn",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Popchips Sour Cream & Onion",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sour cream & onion"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Propercorn Sweet & Salty 30g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Propercorn",
+  "maker": "Propercorn",
+  "type": "Popcorn",
+  "family": "Salty",
+  "flavours": [
+   "Sweet & salty"
+  ],
+  "weight_g": 30.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Mentos Fruit 38g",
+  "shop": "Morrisons",
+  "price_gbp": 0.95,
+  "brand": "Mentos",
+  "maker": "Perfetti",
+  "type": "Sweets",
+  "family": "Sweet",
+  "flavours": [
+   "Mixed fruit"
+  ],
+  "weight_g": 38.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cheez-It Snap'd Double Cheese 40g",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cheez-It",
+  "maker": "Kellanova",
+  "type": "Crackers",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cadbury Fairtrade Dairy Milk",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons Millionaire Shortbread Bar 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Popworks Sweet BBQ Popped Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Popworks",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Doritos Tangy Cheese 48g",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Doritos",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 48.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Popchips Sea Salt & Vinegar",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Twix Crispy Wafer Roll",
+  "shop": "Morrisons",
+  "price_gbp": 0.75,
+  "brand": "Twix",
+  "maker": "Mars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Aero Bubbly Peppermint Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Aero",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Mint"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Sticky Teriyaki Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Teriyaki"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Masala Chicken Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy",
+   "Chicken"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Max Pizza Hut Texan BBQ Grab Bag 50g",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "weight_g": 50.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Quavers Prawn Cocktail",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Quavers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Taste Original Southern Fried Chicken Skewers With Chipotle BBQ Dip 55g",
+  "shop": "Morrisons",
+  "price_gbp": 1.75,
+  "brand": "Taste Original",
+  "maker": "Taste Original",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "BBQ",
+   "Chicken"
+  ],
+  "weight_g": 55.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Less Salt Lightly Salted Crisps 45g",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 45.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nakd Cocoa Orange Bar",
+  "shop": "Morrisons",
+  "price_gbp": 0.99,
+  "brand": "Nakd",
+  "maker": "Lotus Bakeries",
+  "type": "Snack bar",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Orange"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Max Paprika Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "KitKat Chunky Caramel Milk Chocolate Bar",
+  "shop": "Morrisons",
+  "price_gbp": 0.75,
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Nakd Bakewell Tart Bar",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Nakd",
+  "maker": "Lotus Bakeries",
+  "type": "Snack bar",
+  "family": "Sweet",
+  "flavours": [
+   "Cherry"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Quavers BBQ Sauce 34g",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Quavers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "weight_g": 34.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Kettle Ridge Cut Asian Chilli Beef 40g",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Kettle",
+  "maker": "Campbell's",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Beef",
+   "Spicy"
+  ],
+  "weight_g": 40.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Morrisons 2 Pork & Cranberry Pies 100g",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork",
+   "Cranberry"
+  ],
+  "weight_g": 100.0,
+  "chilled": true,
+  "range": "Festive",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Walkers Sensations Thai Sweet Chilli Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet chilli"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Proper Chips Sea Salt Lentil Chips 31g",
+  "shop": "Morrisons",
+  "price_gbp": 1.1,
+  "brand": "Proper",
+  "maker": "Propercorn",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "weight_g": 31.0,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Popworks Sweet & Salty Popped Crisps",
+  "shop": "Morrisons",
+  "price_gbp": 1.2,
+  "brand": "Popworks",
+  "maker": "PepsiCo",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet & salty"
+  ],
+  "weight_g": null,
+  "chilled": false,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Philadelphia Light Cream Cheese Snacks 42g",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Philadelphia",
+  "maker": "Mondelez",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "weight_g": 42.0,
+  "chilled": true,
+  "range": "Standard",
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ }
+]

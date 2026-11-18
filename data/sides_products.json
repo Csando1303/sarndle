@@ -1,0 +1,5148 @@
+[
+ {
+  "name": "Cadbury Dairy Milk Chocolate Puds 35g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 35.0,
+  "price_gbp": 0.7,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.7,
+    "weight": 35.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Dairy Milk Chocolate Puds 35g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Graze Oat Boosts Cherry Bakewell Flapjack 50g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Cherry",
+   "Oat"
+  ],
+  "brand": "Graze",
+  "maker": "Unilever",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 50.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 50.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Graze Oat Boosts Cherry Bakewell Flapjack 50g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Graze Oat Boosts Cocoa & Vanilla Flapjack 50g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Vanilla",
+   "Oat"
+  ],
+  "brand": "Graze",
+  "maker": "Unilever",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 50.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 50.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Graze Oat Boosts Cocoa & Vanilla Flapjack 50g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Graze Oat Boosts Lemon Drizzle Flapjack 50g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Lemon",
+   "Oat"
+  ],
+  "brand": "Graze",
+  "maker": "Unilever",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 50.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 50.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Graze Oat Boosts Lemon Drizzle Flapjack 50g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Gu Zillionaire Cheesecake",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "brand": "Gü",
+  "maker": "Gü",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 2.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Gu Zillionaire Cheesecake"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons All Butter Flapjack Bar 50g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Oat"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 50.0,
+  "price_gbp": 1.45,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.45,
+    "weight": 50.0
+   }
+  },
+  "sizes": [
+   45.0,
+   50.0
+  ],
+  "listings": [
+   "Morrisons All Butter Flapjack Bar 45g",
+   "Morrisons All Butter Flapjack Bar 50g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Brookie Bar",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.45,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.45,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Brookie Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Brownie Bar",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Brownie Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Chocolate Brownie Bar 45g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Chocolate Brownie Bar 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Chocolate Caramel Tiffin Bar",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.45,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.45,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Chocolate Caramel Tiffin Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Millionaire Bar",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.3,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Millionaire Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Millionaire Shortbread Bar 45g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Millionaire Shortbread Bar 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Rocky Road With Belgian Milk Chocolate Bar",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.45,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.45,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Rocky Road With Belgian Milk Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Soreen 2 Malt Loaf Slices 45g",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Malt"
+  ],
+  "brand": "Soreen",
+  "maker": "Soreen",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.3,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Soreen 2 Malt Loaf Slices 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Yorkie Brownie",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Yorkie",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Yorkie Brownie"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Yorkie Brownie Duo",
+  "type": "Bakes",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Yorkie",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.3,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Yorkie Brownie Duo"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Yorkie Brownie"
+ },
+ {
+  "name": "Dairylea Dunkers Jumbo 41g",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Dairylea",
+  "maker": "Mondelez",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 41.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.3,
+    "weight": 41.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Dairylea Dunkers Jumbo 41g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Eatlean Protein Cheese Bar 60g",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Eatlean",
+  "maker": "Eatlean",
+  "chilled": true,
+  "range": "Protein",
+  "weight_g": 60.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 60.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Eatlean Protein Cheese Bar 60g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Philadelphia Light Cream Cheese Snacks 42g",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Philadelphia",
+  "maker": "Mondelez",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 42.0,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": 42.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Philadelphia Light Cream Cheese Snacks 42g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Strings & Things Cheestrings Twin Pack 40g",
+  "type": "Cheese",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Cheestrings",
+  "maker": "Kerry",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.3,
+    "weight": 40.0
+   },
+   "Morrisons": {
+    "price": 1.4,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Strings & Things Cheestrings Twin Pack 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Aero Bubbly Peppermint Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Mint"
+  ],
+  "brand": "Aero",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Aero Bubbly Peppermint Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Bounty Coconut & Chocolate Duo 57g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Coconut"
+  ],
+  "brand": "Bounty",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 57.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 57.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Bounty Coconut & Chocolate Duo 57g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Boost Chocolate Bar 48.5g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 48.5,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 48.5
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Boost Chocolate Bar 48.5g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Boost Duo Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Boost Duo Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Cadbury Boost Chocolate Bar 48.5g"
+ },
+ {
+  "name": "Cadbury Crunchie Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Honeycomb"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Crunchie Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Dairy Milk Caramel",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Dairy Milk Caramel"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Double Decker Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Double Decker Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Double Decker Duo Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Double Decker Duo Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Cadbury Double Decker Chocolate Bar"
+ },
+ {
+  "name": "Cadbury Fairtrade Dairy Milk",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Fairtrade Dairy Milk"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Starbar Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Starbar Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Starbar Duo",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Starbar Duo"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Cadbury Starbar Chocolate Bar"
+ },
+ {
+  "name": "Cadbury Twirl Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Twirl Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Twirl Orange",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Orange"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Twirl Orange"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Twirl Xtra Duo Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Twirl Xtra Duo Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Cadbury Twirl Chocolate Bar"
+ },
+ {
+  "name": "Cadbury Wispa",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Wispa"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cadbury Wispa Duo Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Wispa Duo Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Cadbury Wispa"
+ },
+ {
+  "name": "Cadbury Wispa Gold Chocolate & Caramel Bar 48g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "brand": "Cadbury",
+  "maker": "Mondelez",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 48.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.0,
+    "weight": 48.0
+   },
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 48.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cadbury Wispa Gold Chocolate & Caramel Bar 48g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Ferrero Rocher 3 Pack 37.5g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "brand": "Ferrero Rocher",
+  "maker": "Ferrero",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 37.5,
+  "price_gbp": 1.65,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.65,
+    "weight": 37.5
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Ferrero Rocher 3 Pack 37.5g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Galaxy Caramel Milk Chocolate Bar 48g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel"
+  ],
+  "brand": "Galaxy",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 48.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 48.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Galaxy Caramel Milk Chocolate Bar 48g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Galaxy Milk Chocolate Bar 42g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Galaxy",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 42.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 42.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Galaxy Milk Chocolate Bar 42g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Galaxy Ripple Chocolate Bar 30g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Galaxy",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 30.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 30.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Galaxy Ripple Chocolate Bar 30g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Kinder Bueno Bar 43g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 43.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.0,
+    "weight": 43.0
+   },
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 43.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Kinder Bueno Bar 43g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Kinder Bueno White 39g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "White chocolate",
+   "Hazelnut"
+  ],
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 39.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.0,
+    "weight": 39.0
+   },
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 39.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Kinder Bueno White 39g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Kinder Milk Chocolate Medium Bars",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 0.9,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.9,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Kinder Milk Chocolate Medium Bars"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Kinder Surprise Milk Chocolate Egg 20g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 20.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 20.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Kinder Surprise Milk Chocolate Egg 20g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Kinder Surprise Milk Chocolate Egg Natoons",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Kinder",
+  "maker": "Ferrero",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Kinder Surprise Milk Chocolate Egg Natoons"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Kinder Surprise Milk Chocolate Egg 20g"
+ },
+ {
+  "name": "KitKat 4 Finger Milk Chocolate Bar 41.5g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 41.5,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.0,
+    "weight": 41.5
+   },
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 41.5
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "KitKat 4 Finger Milk Chocolate Bar 41.5g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "KitKat Chunky Caramel Milk Chocolate Bar",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 0.75,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.75,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "KitKat Chunky Caramel Milk Chocolate Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "KitKat Chunky Milk Chocolate Duo 64g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 64.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.3,
+    "weight": 64.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "KitKat Chunky Milk Chocolate Duo 64g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "KitKat Santa Milk Chocolate Christmas Figure 29g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "brand": "KitKat",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Festive",
+  "weight_g": 29.0,
+  "price_gbp": 0.7,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.7,
+    "weight": 29.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "KitKat Santa Milk Chocolate Christmas Figure 29g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Lindt Lindor Milk Chocolate Treat Bar 38g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Lindt",
+  "maker": "Lindt",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 38.0,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": 38.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Lindt Lindor Milk Chocolate Treat Bar 38g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Lion Milk Duo",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Lion",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.3,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Lion Milk Duo"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "M&M's Crispy Milk Chocolate Christmas Santa 29g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "M&M's",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Festive",
+  "weight_g": 29.0,
+  "price_gbp": 0.7,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.7,
+    "weight": 29.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "M&M's Crispy Milk Chocolate Christmas Santa 29g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Maltesers Chocolate & Honeycomb Snack Bag 37g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Honeycomb",
+   "Malt"
+  ],
+  "brand": "Maltesers",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 37.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 37.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Maltesers Chocolate & Honeycomb Snack Bag 37g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Maltesers Chocolate Reindeer 29g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Malt"
+  ],
+  "brand": "Maltesers",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Festive",
+  "weight_g": 29.0,
+  "price_gbp": 0.7,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.7,
+    "weight": 29.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Maltesers Chocolate Reindeer 29g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Maltesers Gingerbread Chocolate Reindeer 29g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Ginger",
+   "Malt"
+  ],
+  "brand": "Maltesers",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Festive",
+  "weight_g": 29.0,
+  "price_gbp": 0.7,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.7,
+    "weight": 29.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Maltesers Gingerbread Chocolate Reindeer 29g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nestle Milkybar Medium",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "White chocolate"
+  ],
+  "brand": "Milkybar",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nestle Milkybar Medium"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nutella & Go! Hazelnut Spread and Breadsticks 48g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Hazelnut"
+  ],
+  "brand": "Nutella",
+  "maker": "Ferrero",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 48.0,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": null,
+    "weight": 48.0
+   },
+   "Morrisons": {
+    "price": 1.35,
+    "weight": 48.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nutella & Go! Hazelnut Spread and Breadsticks 48g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Twix Caramel Biscuit Chocolate Bars 50g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Caramel",
+   "Biscuit"
+  ],
+  "brand": "Twix",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 50.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 50.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Twix Caramel Biscuit Chocolate Bars 50g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Twix Crispy Wafer Roll",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "brand": "Twix",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 0.75,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.75,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Twix Crispy Wafer Roll"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Twix Xtra Chocolate Biscuit Twin Bars 75g",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Biscuit"
+  ],
+  "brand": "Twix",
+  "maker": "Mars",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 75.0,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": 75.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Twix Xtra Chocolate Biscuit Twin Bars 75g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Yorkie Original Duo",
+  "type": "Chocolate",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Yorkie",
+  "maker": "Nestlé",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.3,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Yorkie Original Duo"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cheez-It Snap'd Cheese & Chilli 40g",
+  "type": "Crackers",
+  "family": "Salty",
+  "flavours": [
+   "Spicy",
+   "Cheese"
+  ],
+  "brand": "Cheez-It",
+  "maker": "Kellanova",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cheez-It Snap'd Cheese & Chilli 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cheez-It Snap'd Double Cheese 40g",
+  "type": "Crackers",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Cheez-It",
+  "maker": "Kellanova",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cheez-It Snap'd Double Cheese 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Jacob's Mini Cheddars Original Grab Bag 45g",
+  "type": "Crackers",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Jacob's",
+  "maker": "Pladis",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.1,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.1,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Jacob's Mini Cheddars Original Grab Bag 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Discos Salt & Vinegar Grab Bag Crisps 50g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "brand": "Discos",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 50.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 50.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 50.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Discos Salt & Vinegar Grab Bag Crisps 50g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Doritos Tangy Cheese 48g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Doritos",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 48.0,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": 48.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Doritos Tangy Cheese 48g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Hula Hoops Big Hoops Barbecue Beef 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ",
+   "Beef"
+  ],
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Hula Hoops Big Hoops Barbecue Beef 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Hula Hoops Big Hoops Salt & Vinegar Grab Bag 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Hula Hoops Big Hoops Salt & Vinegar Grab Bag 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Hula Hoops Big Hoops Salted Grab Bag 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Hula Hoops",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Hula Hoops Big Hoops Salted Grab Bag 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Kettle Ridge Cut Asian Chilli Beef 40g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Beef",
+   "Spicy"
+  ],
+  "brand": "Kettle",
+  "maker": "Campbell's",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.45,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.45,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Kettle Ridge Cut Asian Chilli Beef 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "McCoy's Cheddar & Onion Grab Bag Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "McCoy's Cheddar & Onion Grab Bag Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "McCoy's Flame Grilled Steak Grab Bag 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Beef"
+  ],
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "McCoy's Flame Grilled Steak Grab Bag 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "McCoy's Hot 'N' Spicy Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "McCoy's Hot 'N' Spicy Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "McCoy's Salt & Vinegar Grab Bag Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "McCoy's Salt & Vinegar Grab Bag Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "McCoy's Sizzling King Prawn Grab Bag Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn"
+  ],
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "McCoy's Sizzling King Prawn Grab Bag Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "McCoy's Thai Sweet Chicken Grab Bag Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet chilli"
+  ],
+  "brand": "McCoy's",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "McCoy's Thai Sweet Chicken Grab Bag Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nik Naks Nice 'N' Spicy Grab Bag Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "brand": "Nik Naks",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nik Naks Nice 'N' Spicy Grab Bag Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Popchips Barbecue",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Popchips Barbecue"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Popchips Sea Salt",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Popchips Sea Salt"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Popchips Sea Salt & Vinegar",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Popchips Sea Salt & Vinegar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Popchips Sour Cream & Onion",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sour cream & onion"
+  ],
+  "brand": "Popchips",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Popchips Sour Cream & Onion"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Popworks Sweet & Salty Popped Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet & salty"
+  ],
+  "brand": "Popworks",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Popworks Sweet & Salty Popped Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Popworks Sweet BBQ Popped Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "brand": "Popworks",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Popworks Sweet BBQ Popped Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Pringles Original Snacking Crisps 40g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Pringles",
+  "maker": "Kellanova",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Pringles Original Snacking Crisps 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Pringles Sour Cream & Onion Snacking Crisps 40g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sour cream & onion"
+  ],
+  "brand": "Pringles",
+  "maker": "Kellanova",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.25,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Pringles Sour Cream & Onion Snacking Crisps 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Proper Chips Sea Salt Lentil Chips 31g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Proper",
+  "maker": "Propercorn",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 31.0,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": 31.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Proper Chips Sea Salt Lentil Chips 31g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Properchips Barbecue Lentil Chips",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "brand": "Proper",
+  "maker": "Propercorn",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Properchips Barbecue Lentil Chips"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Skips Prawn Cocktail Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "brand": "Skips",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Skips Prawn Cocktail Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tyrrells Sea Salted Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Tyrrells",
+  "maker": "KP Snacks",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tyrrells Sea Salted Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers BBQ Sauce Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers BBQ Sauce Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Baked Cheese & Onion Grab Bag Crisps 37.5g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 37.5,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 37.5
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 37.5
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Baked Cheese & Onion Grab Bag Crisps 37.5g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Baked Prawn Cocktail Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Baked Prawn Cocktail Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Baked Salt & Vinegar Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Baked Salt & Vinegar Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Baked Sea Salt Crisps 37.5g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 37.5,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 37.5
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 37.5
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Baked Sea Salt Crisps 37.5g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Cheese & Onion Grab Bag Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese & onion"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.35,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Cheese & Onion Grab Bag Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers French Fries Worcester Sauce",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Worcester sauce"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 0.95,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.95,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers French Fries Worcester Sauce"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Heinz Tomato Ketchup Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Tomato"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Heinz Tomato Ketchup Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Lea & Perrins Worcester Sauce Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Worcester sauce"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Lea & Perrins Worcester Sauce Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Less Salt Lightly Salted Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Less Salt Lightly Salted Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Masala Chicken Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy",
+   "Chicken"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Masala Chicken Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Max Paprika Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.2,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.2,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Max Paprika Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Max Pizza Hut Texan BBQ Grab Bag 50g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 50.0,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": 50.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Max Pizza Hut Texan BBQ Grab Bag 50g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Monster Munch Pickled Onion 40g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Pickled onion"
+  ],
+  "brand": "Monster Munch",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Monster Munch Pickled Onion 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Monster Munch Sweet & Spicy",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy"
+  ],
+  "brand": "Monster Munch",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Monster Munch Sweet & Spicy"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Prawn Cocktail Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Prawn Cocktail Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Quavers BBQ Sauce 34g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "BBQ"
+  ],
+  "brand": "Quavers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 34.0,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": 34.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Quavers BBQ Sauce 34g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Quavers Cheese Grab Bag 34g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Quavers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 34.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 34.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 34.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Quavers Cheese Grab Bag 34g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Quavers Prawn Cocktail",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Prawn cocktail"
+  ],
+  "brand": "Quavers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Quavers Prawn Cocktail"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Ready Salted Grab Bag Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salted"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Ready Salted Grab Bag Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Roast Chicken Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Chicken"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Roast Chicken Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Salt & Vinegar Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Salt & Vinegar Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Sensations Mature Cheddar & Chilli Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Spicy",
+   "Cheese"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Sensations Mature Cheddar & Chilli Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Sensations Thai Sweet Chilli Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet chilli"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Sensations Thai Sweet Chilli Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Sensations Thai Sweet Chilli Grab Bag Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Sweet chilli"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Sensations Thai Sweet Chilli Grab Bag Crisps"
+  ],
+  "needs_check": [],
+  "in_game": false,
+  "left_out": "same as Walkers Sensations Thai Sweet Chilli Crisps"
+ },
+ {
+  "name": "Walkers Smoky Bacon Crisps 45g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Bacon"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Smoky Bacon Crisps 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Squares Salt & Vinegar Grab Bag 40g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Salt & vinegar"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 40.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Squares Salt & Vinegar Grab Bag 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Sticky Teriyaki Crisps",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Teriyaki"
+  ],
+  "brand": "Walkers",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.1,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.1,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Sticky Teriyaki Crisps"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Walkers Wotsits Cheese Grab Bag 36g",
+  "type": "Crisps",
+  "family": "Salty",
+  "flavours": [
+   "Cheese"
+  ],
+  "brand": "Wotsits",
+  "maker": "PepsiCo",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 36.0,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 36.0
+   },
+   "Morrisons": {
+    "price": 1.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Walkers Wotsits Cheese Grab Bag 36g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Cuzena Chip & Dip Jalapeno Houmous With Toasted Pretzels",
+  "type": "Dips & olives",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Spicy",
+   "Houmous"
+  ],
+  "brand": "Cuzena",
+  "maker": "Cuzena",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 2.7,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.7,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Cuzena Chip & Dip Jalapeno Houmous With Toasted Pretzels"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tesco Green Olives With Herbs 60g",
+  "type": "Dips & olives",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Olive"
+  ],
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 60.0,
+  "price_gbp": 1.4,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.4,
+    "weight": 60.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tesco Green Olives With Herbs 60g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons 2 Hard Boiled Eggs Pot 90g",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 90.0,
+  "price_gbp": 1.55,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.55,
+    "weight": 90.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons 2 Hard Boiled Eggs Pot 90g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tesco Egg & Salad Cream 130g",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg"
+  ],
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 130.0,
+  "price_gbp": 1.4,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.4,
+    "weight": 130.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tesco Egg & Salad Cream 130g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tesco Egg Protein Pot 90g",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg"
+  ],
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "chilled": true,
+  "range": "Protein",
+  "weight_g": 90.0,
+  "price_gbp": 1.4,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.4,
+    "weight": 90.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tesco Egg Protein Pot 90g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tesco Mini Savoury Eggs 65g",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg",
+   "Pork"
+  ],
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 65.0,
+  "price_gbp": null,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": null,
+    "weight": 65.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tesco Mini Savoury Eggs 65g"
+  ],
+  "needs_check": [
+   "no price (out of stock online)"
+  ],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Wall's Individual Scotch Egg 113g",
+  "type": "Egg",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Egg",
+   "Pork"
+  ],
+  "brand": "Wall's",
+  "maker": "Pork Farms",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 113.0,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": 113.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Wall's Individual Scotch Egg 113g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Del Monte Apple, Grape & Strawberry",
+  "type": "Fruit & veg",
+  "family": "Fresh",
+  "flavours": [
+   "Strawberry",
+   "Apple",
+   "Grape"
+  ],
+  "brand": "Del Monte",
+  "maker": "Del Monte",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Del Monte Apple, Grape & Strawberry"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Del Monte Pineapple Chunks",
+  "type": "Fruit & veg",
+  "family": "Fresh",
+  "flavours": [
+   "Pineapple"
+  ],
+  "brand": "Del Monte",
+  "maker": "Del Monte",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Del Monte Pineapple Chunks"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Carrot Sticks & Houmous",
+  "type": "Fruit & veg",
+  "family": "Fresh",
+  "flavours": [
+   "Houmous",
+   "Vegetable"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.4,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.4,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Carrot Sticks & Houmous"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Fridge Raiders Slow Roasted Chicken Bites 45g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken"
+  ],
+  "brand": "Fridge Raiders",
+  "maker": "Pilgrim's",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.38,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.4,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Fridge Raiders Slow Roasted Chicken Bites 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Fridge Raiders Southern Style Chicken Bites 45g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken",
+   "Spicy"
+  ],
+  "brand": "Fridge Raiders",
+  "maker": "Pilgrim's",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 45.0,
+  "price_gbp": 1.38,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.35,
+    "weight": 45.0
+   },
+   "Morrisons": {
+    "price": 1.4,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Fridge Raiders Southern Style Chicken Bites 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Peperami Original Salami 22.5g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "brand": "Peperami",
+  "maker": "Jack Link's",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 22.5,
+  "price_gbp": 1.3,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.3,
+    "weight": 22.5
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Peperami Original Salami 22.5g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Peperami Red Hot Stick 22.5g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Spicy",
+   "Pork"
+  ],
+  "brand": "Peperami",
+  "maker": "Jack Link's",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 22.5,
+  "price_gbp": 1.3,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.3,
+    "weight": 22.5
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Peperami Red Hot Stick 22.5g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Taste Original Chicken Satay Snack 40g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken",
+   "Satay"
+  ],
+  "brand": "Taste Original",
+  "maker": "Taste Original",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.3,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Taste Original Chicken Satay Snack 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Taste Original Chicken Satay With Sweet Chilli Dip 55g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken",
+   "Satay",
+   "Sweet chilli"
+  ],
+  "brand": "Taste Original",
+  "maker": "Taste Original",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 55.0,
+  "price_gbp": 1.75,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.75,
+    "weight": 55.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Taste Original Chicken Satay With Sweet Chilli Dip 55g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Taste Original Southern Fried Chicken Skewers With Chipotle BBQ Dip 55g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "BBQ",
+   "Chicken"
+  ],
+  "brand": "Taste Original",
+  "maker": "Taste Original",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 55.0,
+  "price_gbp": 1.75,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.75,
+    "weight": 55.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Taste Original Southern Fried Chicken Skewers With Chipotle BBQ Dip 55g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tesco Cocktail Sausages & Ketchup Dip 98g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Tomato",
+   "Pork"
+  ],
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 98.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.3,
+    "weight": 98.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tesco Cocktail Sausages & Ketchup Dip 98g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "The Gym Kitchen Chicken Tikka Bites 45g",
+  "type": "Meat bites",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Chicken"
+  ],
+  "brand": "The Gym Kitchen",
+  "maker": "The Gym Kitchen",
+  "chilled": true,
+  "range": "Protein",
+  "weight_g": 45.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.3,
+    "weight": 45.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "The Gym Kitchen Chicken Tikka Bites 45g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Ginsters Original Cornish Pasty 130g",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Original"
+  ],
+  "brand": "Ginsters",
+  "maker": "Samworth Brothers",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 130.0,
+  "price_gbp": 1.65,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.65,
+    "weight": 130.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Ginsters Original Cornish Pasty 130g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Higgidy Cheddar & Caramelised Onion Chutney Rolls x2 54g",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Cheese",
+   "Onion"
+  ],
+  "brand": "Higgidy",
+  "maker": "Samworth Brothers",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 54.0,
+  "price_gbp": 1.5,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.5,
+    "weight": 54.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Higgidy Cheddar & Caramelised Onion Chutney Rolls x2 54g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Higgidy Ham Hock & Cheddar Sausage Rolls x2 54g",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork",
+   "Cheese"
+  ],
+  "brand": "Higgidy",
+  "maker": "Samworth Brothers",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 54.0,
+  "price_gbp": 1.5,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.5,
+    "weight": 54.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Higgidy Ham Hock & Cheddar Sausage Rolls x2 54g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons 2 Pork & Cranberry Pies 100g",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork",
+   "Cranberry"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Festive",
+  "weight_g": 100.0,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": 100.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons 2 Pork & Cranberry Pies 100g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Individual Sausage Roll",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.35,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.35,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Individual Sausage Roll"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Jumbo Vegetable Samosa",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Vegetable"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Jumbo Vegetable Samosa"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Mini Pork Pies (2 per pack)",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.4,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.4,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Mini Pork Pies (2 per pack)"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Onion Bhaji & Mango Chutney Snack Pot",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Onion",
+   "Chutney"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.5,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.5,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Onion Bhaji & Mango Chutney Snack Pot"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tesco 2 Mini Melton Mowbray Pork Pies 100g",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 100.0,
+  "price_gbp": 1.4,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.4,
+    "weight": 100.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tesco 2 Mini Melton Mowbray Pork Pies 100g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Tesco Vegetable Samosa 110g",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Vegetable"
+  ],
+  "brand": "Tesco",
+  "maker": "Tesco",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 110.0,
+  "price_gbp": 2.0,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 2.0,
+    "weight": 110.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Tesco Vegetable Samosa 110g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Wall's Large Pork Sausage Roll 100g",
+  "type": "Pastry",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Pork"
+  ],
+  "brand": "Wall's",
+  "maker": "Pork Farms",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 100.0,
+  "price_gbp": 1.3,
+  "shops": [
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.3,
+    "weight": 100.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Wall's Large Pork Sausage Roll 100g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Propercorn Sweet & Salty 30g",
+  "type": "Popcorn",
+  "family": "Salty",
+  "flavours": [
+   "Sweet & salty"
+  ],
+  "brand": "Propercorn",
+  "maker": "Propercorn",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 30.0,
+  "price_gbp": 1.07,
+  "shops": [
+   "Morrisons",
+   "Tesco"
+  ],
+  "shop_prices": {
+   "Tesco": {
+    "price": 1.15,
+    "weight": 30.0
+   },
+   "Morrisons": {
+    "price": 1.0,
+    "weight": 30.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Propercorn Sweet & Salty 30g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Golden Syrup Porridge",
+  "type": "Porridge",
+  "family": "Fresh",
+  "flavours": [
+   "Oat",
+   "Syrup"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 0.55,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.55,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Golden Syrup Porridge"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Original Porridge Pot",
+  "type": "Porridge",
+  "family": "Fresh",
+  "flavours": [
+   "Oat"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 0.55,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.55,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Original Porridge Pot"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons King Prawns With A Sweet Chilli Dip",
+  "type": "Seafood",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Sweet chilli",
+   "Prawn"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 2.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.3,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons King Prawns With A Sweet Chilli Dip"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Morrisons Snack Seafood Sticks With Marie Rose Sauce",
+  "type": "Seafood",
+  "family": "Chilled savoury",
+  "flavours": [
+   "Fish"
+  ],
+  "brand": "Morrisons",
+  "maker": "Morrisons",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 2.3,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.3,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Morrisons Snack Seafood Sticks With Marie Rose Sauce"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nakd Bakewell Tart Bar",
+  "type": "Snack bar",
+  "family": "Sweet",
+  "flavours": [
+   "Cherry"
+  ],
+  "brand": "Nakd",
+  "maker": "Lotus Bakeries",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nakd Bakewell Tart Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nakd Cocoa Orange Bar",
+  "type": "Snack bar",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Orange"
+  ],
+  "brand": "Nakd",
+  "maker": "Lotus Bakeries",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 0.99,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.99,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nakd Cocoa Orange Bar"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nomadic Yogurt And Oat Bar Chocolate",
+  "type": "Snack bar",
+  "family": "Sweet",
+  "flavours": [
+   "Chocolate",
+   "Yogurt",
+   "Oat"
+  ],
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 2.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.0,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nomadic Yogurt And Oat Bar Chocolate"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Fruitella Strawberry Stick 40g",
+  "type": "Sweets",
+  "family": "Sweet",
+  "flavours": [
+   "Strawberry"
+  ],
+  "brand": "Fruitella",
+  "maker": "Perfetti",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 40.0,
+  "price_gbp": 0.75,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.75,
+    "weight": 40.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Fruitella Strawberry Stick 40g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Mentos Fruit 38g",
+  "type": "Sweets",
+  "family": "Sweet",
+  "flavours": [
+   "Mixed fruit"
+  ],
+  "brand": "Mentos",
+  "maker": "Perfetti",
+  "chilled": false,
+  "range": "Standard",
+  "weight_g": 38.0,
+  "price_gbp": 0.95,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 0.95,
+    "weight": 38.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Mentos Fruit 38g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Activia Fibre Yogurt & Red Berries Granola 165g",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Berry",
+   "Oat"
+  ],
+  "brand": "Activia",
+  "maker": "Danone",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": 165.0,
+  "price_gbp": 1.7,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.7,
+    "weight": 165.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Activia Fibre Yogurt & Red Berries Granola 165g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Muller MyProtein Vanilla Yogurt with Chocolate Balls 180g",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate",
+   "Vanilla"
+  ],
+  "brand": "Müller",
+  "maker": "Müller",
+  "chilled": true,
+  "range": "Protein",
+  "weight_g": 180.0,
+  "price_gbp": 2.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.0,
+    "weight": 180.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Muller MyProtein Vanilla Yogurt with Chocolate Balls 180g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nomadic Oat Crunch Chocolate & Yogurt",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate",
+   "Yogurt",
+   "Oat"
+  ],
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 1.85,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 1.85,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nomadic Oat Crunch Chocolate & Yogurt"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nomadic Power Pot Vanilla Yogurt & Granola & Chocolate Brownie",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate",
+   "Vanilla",
+   "Oat"
+  ],
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 2.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nomadic Power Pot Vanilla Yogurt & Granola & Chocolate Brownie"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nomadic Power Pot Vanilla Yogurt & Granola Smooth Caramel",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Caramel",
+   "Vanilla",
+   "Oat"
+  ],
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "chilled": true,
+  "range": "Standard",
+  "weight_g": null,
+  "price_gbp": 2.25,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.25,
+    "weight": null
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nomadic Power Pot Vanilla Yogurt & Granola Smooth Caramel"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ },
+ {
+  "name": "Nomadic Protein Pudding Chocolate 200g",
+  "type": "Yogurt & pots",
+  "family": "Fresh",
+  "flavours": [
+   "Chocolate"
+  ],
+  "brand": "Nomadic",
+  "maker": "Nomadic",
+  "chilled": true,
+  "range": "Protein",
+  "weight_g": 200.0,
+  "price_gbp": 2.0,
+  "shops": [
+   "Morrisons"
+  ],
+  "shop_prices": {
+   "Morrisons": {
+    "price": 2.0,
+    "weight": 200.0
+   }
+  },
+  "sizes": null,
+  "listings": [
+   "Nomadic Protein Pudding Chocolate 200g"
+  ],
+  "needs_check": [],
+  "in_game": true,
+  "left_out": null
+ }
+]

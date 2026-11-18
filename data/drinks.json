@@ -1,0 +1,3212 @@
+[
+ {
+  "name": "Volvic Touch of Fruit Strawberry 750ml",
+  "shop": "Tesco",
+  "price_gbp": 1.95,
+  "brand": "Volvic",
+  "maker": "Danone",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Strawberry"
+  ],
+  "size_ml": 750,
+  "sugar": "Low sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Evian Still Mineral Water 750ml",
+  "shop": "Tesco",
+  "price_gbp": 1.85,
+  "brand": "Evian",
+  "maker": "Danone",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 750,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Evian Still Mineral Water 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.5,
+  "brand": "Evian",
+  "maker": "Danone",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Cano Still Spring Water 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.1,
+  "brand": "Cano",
+  "maker": "Cano",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Innocent Super Smoothie Invigorate Kiwi & Cucumber 300ml",
+  "shop": "Tesco",
+  "price_gbp": 2.8,
+  "brand": "Innocent",
+  "maker": "Coca-Cola",
+  "type": "Smoothie",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Kiwi",
+   "Cucumber"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Innocent Super Smoothie Tropical Defence Mango & Coconut 300ml",
+  "shop": "Tesco",
+  "price_gbp": 2.8,
+  "brand": "Innocent",
+  "maker": "Coca-Cola",
+  "type": "Smoothie",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Tropical",
+   "Mango",
+   "Coconut"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Innocent Super Smoothie Energise 300ml",
+  "shop": "Tesco",
+  "price_gbp": 2.8,
+  "brand": "Innocent",
+  "maker": "Coca-Cola",
+  "type": "Smoothie",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Strawberry",
+   "Cherry",
+   "Apple"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Naked Blue Machine Blueberry Smoothie 300ml",
+  "shop": "Tesco",
+  "price_gbp": 2.9,
+  "brand": "Naked",
+  "maker": "PepsiCo",
+  "type": "Smoothie",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Blueberry"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Copella Apple Juice 300ml",
+  "shop": "Tesco",
+  "price_gbp": 1.95,
+  "brand": "Copella",
+  "maker": "Tropicana",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Apple"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vita Coco Original Coconut Water 500ml",
+  "shop": "Tesco",
+  "price_gbp": 2.5,
+  "brand": "Vita Coco",
+  "maker": "Vita Coco",
+  "type": "Coconut water",
+  "family": "Water",
+  "flavours": [
+   "Coconut"
+  ],
+  "size_ml": 500,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tropicana Orange Juice Original 300ml",
+  "shop": "Tesco",
+  "price_gbp": 2.25,
+  "brand": "Tropicana",
+  "maker": "Tropicana",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Innocent Smoothie Strawberries & Bananas 250ml",
+  "shop": "Tesco",
+  "price_gbp": 2.0,
+  "brand": "Innocent",
+  "maker": "Coca-Cola",
+  "type": "Smoothie",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Strawberry",
+   "Banana"
+  ],
+  "size_ml": 250,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Juice Burst Orange 500ml",
+  "shop": "Tesco",
+  "price_gbp": 2.0,
+  "brand": "Juice Burst",
+  "maker": "Purity Soft Drinks",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Capri-Sun Orange 330ml",
+  "shop": "Tesco",
+  "price_gbp": 1.5,
+  "brand": "Capri-Sun",
+  "maker": "Capri Sun",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Diet Coke 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.85,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Original Taste 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.89,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Zero Sugar 330ml",
+  "shop": "Tesco",
+  "price_gbp": 1.45,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 330,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Oasis Citrus Punch 500ml",
+  "shop": "Tesco",
+  "price_gbp": 2.15,
+  "brand": "Oasis",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Citrus",
+   "Mixed fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fanta Fruit Twist 500ml",
+  "shop": "Tesco",
+  "price_gbp": 2.1,
+  "brand": "Fanta",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mixed fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Dr Pepper 500ml",
+  "shop": "Tesco",
+  "price_gbp": 2.1,
+  "brand": "Dr Pepper",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Dr Pepper"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Oasis Summer Fruits 500ml",
+  "shop": "Tesco",
+  "price_gbp": 2.15,
+  "brand": "Oasis",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Ribena Blackcurrant 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.85,
+  "brand": "Ribena",
+  "maker": "Suntory",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Blackcurrant"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Max No Sugar 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.89,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Max Cherry No Sugar 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.89,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Irn-Bru 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.29,
+  "brand": "Irn-Bru",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Irn-Bru"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Zero Sugar Cherry 500ml",
+  "shop": "Tesco",
+  "price_gbp": 1.85,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Diet Coke 330ml",
+  "shop": "Tesco",
+  "price_gbp": 1.45,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 330,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://www.tesco.com/shop/en-GB/buylists/lunch-meal-deals",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Oasis Summer Fruits 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Oasis",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Max No Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Diet Coke 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Original Taste 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Oasis Citrus Punch 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Oasis",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Citrus",
+   "Mixed fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Energy Drink 473ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.85,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 473,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Ribena Blackcurrant No Added Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.7,
+  "brand": "Ribena",
+  "maker": "Suntory",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Blackcurrant"
+  ],
+  "size_ml": 500,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Carabao Energy Drink Mixed Berry 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.85,
+  "brand": "Carabao",
+  "maker": "Carabao",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Highland Spring Still Water Sports Cap 750ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.15,
+  "brand": "Highland Spring",
+  "maker": "Highland Spring",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 750,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Evian Still Mineral Water Sports Cap 750ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Evian",
+  "maker": "Danone",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 750,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Max Cherry No Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "UFIT High Protein Shake White Chocolate 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "UFIT",
+  "maker": "UFIT",
+  "type": "Protein shake",
+  "family": "Milky",
+  "flavours": [
+   "Chocolate"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fanta Orange Zero 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Fanta",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Starbucks Caramel Macchiato Iced Coffee 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.8,
+  "brand": "Starbucks",
+  "maker": "Arla",
+  "type": "Iced coffee",
+  "family": "Milky",
+  "flavours": [
+   "Coffee",
+   "Caramel"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Buxton Still Mineral Water Sports Cap 1L",
+  "shop": "Morrisons",
+  "price_gbp": 1.75,
+  "brand": "Buxton",
+  "maker": "Nestlé",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 1000,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Dr Pepper 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.05,
+  "brand": "Dr Pepper",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Dr Pepper"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lucozade Energy Original 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Lucozade",
+  "maker": "Suntory",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Starbucks Caffe Latte Iced Coffee 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.8,
+  "brand": "Starbucks",
+  "maker": "Arla",
+  "type": "Iced coffee",
+  "family": "Milky",
+  "flavours": [
+   "Coffee"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Ribena Blackcurrant 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.7,
+  "brand": "Ribena",
+  "maker": "Suntory",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Blackcurrant"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Rubicon Spring Orange Mango 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.6,
+  "brand": "Rubicon",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Orange",
+   "Mango"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Juice Burst Apple 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Juice Burst",
+  "maker": "Purity Soft Drinks",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Apple"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Mango Loco 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mango"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Carabao Energy Drink Original 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.85,
+  "brand": "Carabao",
+  "maker": "Carabao",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Innocent Smoothie Strawberries & Bananas 250ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Innocent",
+  "maker": "Coca-Cola",
+  "type": "Smoothie",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Apple",
+   "Strawberry",
+   "Banana"
+  ],
+  "size_ml": 250,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Juice Burst Orange 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Juice Burst",
+  "maker": "Purity Soft Drinks",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Ultra Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Citrus"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Innocent Super Smoothie Energise 300ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.8,
+  "brand": "Innocent",
+  "maker": "Coca-Cola",
+  "type": "Smoothie",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Strawberry",
+   "Cherry",
+   "Apple"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Relentless Origin Energy Drink 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Relentless",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Starbucks Tripleshot Espresso Iced Coffee 300ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.5,
+  "brand": "Starbucks",
+  "maker": "Arla",
+  "type": "Iced coffee",
+  "family": "Milky",
+  "flavours": [
+   "Coffee"
+  ],
+  "size_ml": 300,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Pacific Punch 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Glaceau Smartwater Still 600ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Smartwater",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 600,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vita Coco Original Coconut Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.5,
+  "brand": "Vita Coco",
+  "maker": "Vita Coco",
+  "type": "Coconut water",
+  "family": "Water",
+  "flavours": [
+   "Coconut"
+  ],
+  "size_ml": 500,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Dr Pepper Zero 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Dr Pepper",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Dr Pepper"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Sprite 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Sprite",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Mountain Dew 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Mountain Dew",
+  "maker": "PepsiCo",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Citrus"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lucozade Energy Orange 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Lucozade",
+  "maker": "Suntory",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lipton Ice Tea Peach 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Lipton",
+  "maker": "PepsiCo",
+  "type": "Iced tea",
+  "family": "Tea & kombucha",
+  "flavours": [
+   "Peach"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Carabao Energy Drink Green Apple 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.85,
+  "brand": "Carabao",
+  "maker": "Carabao",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Apple"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Max No Caffeine No Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "7UP Zero Sugar Lemon & Lime 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "7UP",
+  "maker": "PepsiCo",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Lime",
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Cherry 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Energy Drink 250ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 250,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vimto 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Vimto",
+  "maker": "Nichols",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Ultra Fiesta Mango Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mango"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Ultra Strawberry Dreams Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Strawberry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "San Pellegrino Sparkling Mineral Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "San Pellegrino",
+  "maker": "Nestlé",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Zero Sugar Cherry 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Jimmy's Iced Coffee Original 380ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.75,
+  "brand": "Jimmy's",
+  "maker": "Jimmy's",
+  "type": "Iced coffee",
+  "family": "Milky",
+  "flavours": [
+   "Coffee"
+  ],
+  "size_ml": 380,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fanta Orange 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.05,
+  "brand": "Fanta",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "7UP Zero Sugar Pink Lemonade 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "7UP",
+  "maker": "PepsiCo",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Irn-Bru Zero 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.6,
+  "brand": "Irn-Bru",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Irn-Bru"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Khaotic 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Orange",
+   "Tropical"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free 473ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.75,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 473,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fanta Lemon 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Fanta",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Powerade Berry & Tropical 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.2,
+  "brand": "Powerade",
+  "maker": "Coca-Cola",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Tropical",
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Volvic Touch of Fruit Strawberry 750ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Volvic",
+  "maker": "Danone",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Strawberry"
+  ],
+  "size_ml": 750,
+  "sugar": "Low sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fanta Fruit Twist 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.05,
+  "brand": "Fanta",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mixed fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Jimmy's Iced Coffee Caramel 380ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.75,
+  "brand": "Jimmy's",
+  "maker": "Jimmy's",
+  "type": "Iced coffee",
+  "family": "Milky",
+  "flavours": [
+   "Coffee",
+   "Caramel"
+  ],
+  "size_ml": 380,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Dr Pepper Zero Cherry Crush 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.05,
+  "brand": "Dr Pepper",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Dr Pepper",
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Diet Irn-Bru 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.6,
+  "brand": "Irn-Bru",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Irn-Bru"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lucozade Sport Orange 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Lucozade",
+  "maker": "Suntory",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lipton Ice Tea Lemon 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Lipton",
+  "maker": "PepsiCo",
+  "type": "Iced tea",
+  "family": "Tea & kombucha",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free 355ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.3,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 355,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Evian Still Mineral Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Evian",
+  "maker": "Danone",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Energy Drink 355ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.3,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 355,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Irn-Bru 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.8,
+  "brand": "Irn-Bru",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Irn-Bru"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Monarch 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Peach"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Pipeline Punch 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Passion fruit",
+   "Orange",
+   "Guava"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lucozade Sport Raspberry 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Lucozade",
+  "maker": "Suntory",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Raspberry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lucozade Zero Sugar Pink Lemonade 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Lucozade",
+  "maker": "Suntory",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Capri-Sun Orange 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Capri-Sun",
+  "maker": "Capri Sun",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Orange"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Zero Sugar Cream Soda 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Cream soda"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Zero Sugar Strawberries And Cream 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Strawberry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Buxton Still Mineral Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.75,
+  "brand": "Buxton",
+  "maker": "Nestlé",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Aussie Style Lemonade 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vit Hit Lean & Green Apple & Elderflower 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Vit Hit",
+  "maker": "Vit Hit",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Apple",
+   "Elderflower"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Regular 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Ultra Rosa Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Ultra Peachy Keen Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Peach"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Plenish Ginger Immunity Shot 60ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Plenish",
+  "maker": "Plenish",
+  "type": "Shot",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Ginger"
+  ],
+  "size_ml": 60,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free Ice Edition Iced Vanilla Berry 355ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.2,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed berry",
+   "Vanilla"
+  ],
+  "size_ml": 355,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Sprite Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Sprite",
+  "maker": "Coca-Cola",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Lando Norris Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Melon",
+   "Yuzu"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lipton Ice Tea Raspberry 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.15,
+  "brand": "Lipton",
+  "maker": "PepsiCo",
+  "type": "Iced tea",
+  "family": "Tea & kombucha",
+  "flavours": [
+   "Raspberry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vit Hit Perform Orange Mango Passionfruit 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.8,
+  "brand": "Vit Hit",
+  "maker": "Vit Hit",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Orange",
+   "Mango",
+   "Passion fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Get More Vits Vitamin D Mango & Passionfruit 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.25,
+  "brand": "Get More Vits",
+  "maker": "Get More",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Mango",
+   "Passion fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Ultra Fantasy Ruby Red Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Grapefruit",
+   "Citrus"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Lucozade Sport Lemon & Lime 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Lucozade",
+  "maker": "Suntory",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Lime",
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "TRIP Wild Strawberry CBD Drink 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.2,
+  "brand": "TRIP",
+  "maker": "TRIP",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Strawberry"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Rio Punch 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Papaya",
+   "Vanilla",
+   "Blackcurrant"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free Peach Edition White Peach 473ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.75,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Peach"
+  ],
+  "size_ml": 473,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vimto Original Energy 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Vimto",
+  "maker": "Nichols",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Monster Energy Full Throttle Zero Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Monster",
+  "maker": "Coca-Cola",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Peach",
+   "Nectarine"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Coca-Cola Zero Sugar Lime 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Lime"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Deeside Still Mineral Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.55,
+  "brand": "Deeside",
+  "maker": "Deeside",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Volvic Touch of Fruit Mango Passion Sugar Free 750ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Volvic",
+  "maker": "Danone",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Mango",
+   "Passion fruit"
+  ],
+  "size_ml": 750,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free Pink Edition Forest Fruits 355ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.2,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 355,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Plenish Turmeric Defence Shot 60ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Plenish",
+  "maker": "Plenish",
+  "type": "Shot",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Turmeric"
+  ],
+  "size_ml": 60,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free Blue Edition Juneberry 355ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.2,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 355,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free 250ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 250,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Rubicon Sparkling Mango 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Rubicon",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mango"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free Ice Edition Iced Vanilla Berry 473ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.75,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Mixed berry",
+   "Vanilla"
+  ],
+  "size_ml": 473,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Zero 355ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.2,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 355,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tango Sugar Free Apple 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Tango",
+  "maker": "Britvic",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Apple"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Harry Brompton's Peach Iced Tea 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.8,
+  "brand": "Harry Brompton's",
+  "maker": "Harry Brompton's",
+  "type": "Iced tea",
+  "family": "Tea & kombucha",
+  "flavours": [
+   "Peach"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Remedy Kombucha Wild Berry 250ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.85,
+  "brand": "Remedy",
+  "maker": "Remedy",
+  "type": "Kombucha",
+  "family": "Tea & kombucha",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 250,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Irn-Bru 1901 Can 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.72,
+  "brand": "Irn-Bru",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Irn-Bru"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Rubicon Sparkling Passion Fruit 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Rubicon",
+  "maker": "AG Barr",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Passion fruit"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Brecon Carreg Still Mineral Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.6,
+  "brand": "Brecon Carreg",
+  "maker": "Brecon Carreg",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Starbucks Tripleshot Espresso No Added Sugar Iced Coffee 300ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.4,
+  "brand": "Starbucks",
+  "maker": "Arla",
+  "type": "Iced coffee",
+  "family": "Milky",
+  "flavours": [
+   "Coffee"
+  ],
+  "size_ml": 300,
+  "sugar": "No added sugar",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "PWR-BRU Energy Drink Original 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "PWR-BRU",
+  "maker": "AG Barr",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Original"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vimto No Added Sugar Still 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Vimto",
+  "maker": "Nichols",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vimto Still Fruity Spring Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Vimto",
+  "maker": "Nichols",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Low sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tenzing Natural Energy Pineapple & Passion Fruit 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Tenzing",
+  "maker": "Tenzing",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Passion fruit",
+   "Pineapple"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "PWR-BRU Energy Drink Diablo Cherry 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "PWR-BRU",
+  "maker": "AG Barr",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Purdey's Natural Energy Apple & Grape 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.75,
+  "brand": "Purdey's",
+  "maker": "Britvic",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Apple",
+   "Grape"
+  ],
+  "size_ml": 330,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Tango Sugar Free Mango 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.6,
+  "brand": "Tango",
+  "maker": "Britvic",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mango"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Cola 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.6,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Energy Blue Raspberry 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.49,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Raspberry"
+  ],
+  "size_ml": 330,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Highland Spring Still Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 0.75,
+  "brand": "Highland Spring",
+  "maker": "Highland Spring",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Overhang Orange, Ginger & Lime 250ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Overhang",
+  "maker": "Overhang",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Lime",
+   "Orange",
+   "Ginger"
+  ],
+  "size_ml": 250,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Drip Sparkling Mineral Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Drip",
+  "maker": "Drip",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Pepsi Max Mango No Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.9,
+  "brand": "Pepsi",
+  "maker": "PepsiCo",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Mango"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Diet Coke Sublime Lime 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Coca-Cola",
+  "maker": "Coca-Cola",
+  "type": "Cola",
+  "family": "Fizzy",
+  "flavours": [
+   "Cola",
+   "Lime"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Drip Still Mineral Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Drip",
+  "maker": "Drip",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Rubicon Raw Energy Pineapple Passion Fruit 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.4,
+  "brand": "Rubicon",
+  "maker": "AG Barr",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Passion fruit",
+   "Pineapple"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fix8 Kombucha Sicilian Citrus 250ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Fix8",
+  "maker": "Fix8",
+  "type": "Kombucha",
+  "family": "Tea & kombucha",
+  "flavours": [
+   "Citrus"
+  ],
+  "size_ml": 250,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Hydration Blue Raspberry 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Raspberry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Highland Spring Sparkling Water 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Highland Spring",
+  "maker": "Highland Spring",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Buxton Still Mineral Water Sports Cap 750ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.0,
+  "brand": "Buxton",
+  "maker": "Nestlé",
+  "type": "Water",
+  "family": "Water",
+  "flavours": [
+   "Plain"
+  ],
+  "size_ml": 750,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Volvic Touch of Fruit Strawberry Sugar Free 750ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Volvic",
+  "maker": "Danone",
+  "type": "Flavoured water",
+  "family": "Water",
+  "flavours": [
+   "Strawberry"
+  ],
+  "size_ml": 750,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Vimto Blackberry, Raspberry & Blueberry No Added Sugar 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.45,
+  "brand": "Vimto",
+  "maker": "Nichols",
+  "type": "Fizzy",
+  "family": "Fizzy",
+  "flavours": [
+   "Mixed berry",
+   "Raspberry",
+   "Blueberry"
+  ],
+  "size_ml": 500,
+  "sugar": "No added sugar",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Energy Ice Pop 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.49,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Cherry",
+   "Lime",
+   "Raspberry"
+  ],
+  "size_ml": 330,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Energy Orange Mango 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.5,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Orange",
+   "Mango"
+  ],
+  "size_ml": 330,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Juice Burst Summer Fruits 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 1.95,
+  "brand": "Juice Burst",
+  "maker": "Purity Soft Drinks",
+  "type": "Juice",
+  "family": "Juice & smoothie",
+  "flavours": [
+   "Mixed berry"
+  ],
+  "size_ml": 500,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Hydration Lemon Lime 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Lime",
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Fix8 Kombucha Strawberry Basil 250ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Fix8",
+  "maker": "Fix8",
+  "type": "Kombucha",
+  "family": "Tea & kombucha",
+  "flavours": [
+   "Strawberry",
+   "Herb"
+  ],
+  "size_ml": 250,
+  "sugar": "Regular",
+  "caffeine": false,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Hydration Ice Pop 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Cherry",
+   "Lime",
+   "Raspberry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Hydration Cherry Freeze 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Cherry"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Hydration Strawberry Watermelon 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Strawberry",
+   "Watermelon"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Hydration Lemonade 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Lemon"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Prime Hydration Meta Moon 500ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "Prime",
+  "maker": "Prime",
+  "type": "Sports",
+  "family": "Energy & sport",
+  "flavours": [
+   "Grape"
+  ],
+  "size_ml": 500,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "UFIT Lite Smooth Chocolate Protein Shake 310ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.0,
+  "brand": "UFIT",
+  "maker": "UFIT",
+  "type": "Protein shake",
+  "family": "Milky",
+  "flavours": [
+   "Chocolate"
+  ],
+  "size_ml": 310,
+  "sugar": "Zero sugar",
+  "caffeine": false,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Starbucks Skinny Latte Iced Coffee 330ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.75,
+  "brand": "Starbucks",
+  "maker": "Arla",
+  "type": "Iced coffee",
+  "family": "Milky",
+  "flavours": [
+   "Coffee"
+  ],
+  "size_ml": 330,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": false,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ },
+ {
+  "name": "Red Bull Sugar Free Lilac Edition Grapefruit & Blossom 355ml",
+  "shop": "Morrisons",
+  "price_gbp": 2.1,
+  "brand": "Red Bull",
+  "maker": "Red Bull",
+  "type": "Energy",
+  "family": "Energy & sport",
+  "flavours": [
+   "Grapefruit",
+   "Floral"
+  ],
+  "size_ml": 355,
+  "sugar": "Zero sugar",
+  "caffeine": true,
+  "fizzy": true,
+  "source": "https://groceries.morrisons.com/offers/food-to-go-meal-deal-for-3-75/BUL-cc5dd9850e98816cc521280",
+  "checked": "2026-11-18"
+ }
+]

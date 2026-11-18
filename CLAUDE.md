@@ -33,6 +33,18 @@ Bread (green exact, yellow same family: sliced / rolls / wraps / toastie), Range
 ## Local state (localStorage)
 `sarndle-v2` (today's guesses: `{day, g, hint}`), `sarndle-stats`, `sarndle-seen`, `sarndle-cb` (colour-blind mode).
 
+## Sides & drinks (planned: full meal deal)
+- `data/build_extras.py` → `data/sides.csv/json`, `data/drinks.csv/json` (one row per shop) and `*_products.json` (merged by product, `shops: {shop: price}`).
+- Collected 18 Nov 2026 from Tesco's meal-deal lists and Morrisons' "Food To Go Meal Deal" offer page only (167 sides, 158 drinks). Sainsbury's, Asda, Co-op, Waitrose, Boots and M&S didn't give readable lists (bot-blocked or loaded by JavaScript).
+- `*_products.json` is the game list: one product per drink/side, merged across shops and pack sizes (165 sides, 145 drinks).
+  `shops` lists every shop that sells it, `shop_prices` gives each shop's price and pack size, and `price_gbp` is the average at the main size (500ml if sold, otherwise the largest).
+  `sizes`, `listings` and `needs_check` are kept for reference.
+- `in_game`: only these go in the game (157 sides, 126 drinks). Energy drinks are capped at 3 per brand (`CAP`, best-known first from `KEEP`), and copies of the same product (Duo bars and similar) are left out (`DUPLICATE`). `left_out` gives the reason.
+- Types and flavours come from keyword rules. `ALIAS` (same product, different name), `FIX` (wrong fields; flavours not in the name were looked up on brand pages) and `validate()` live in the script, and the build stops if the data has gaps.
+- Proposed clues. Sides: Shop(s), Price, Type (yellow = same family: Salty / Sweet / Chilled savoury / Fresh), Flavour (overlap), Brand (yellow = same maker).
+  Drinks: Shop(s), Price, Type (yellow = family: Fizzy / Energy & sport / Water / Juice & smoothie / Milky / Tea & kombucha), Flavour, Size ml (↑↓), Sugar.
+- Branded items are sold at several shops, so the Shop clue needs a list: green = same shops, yellow = overlap.
+
 ## Known data gaps / todo
 - No Lidl data (no online shop); Boots only 5 premium lines; M&S prices from Zoom by Ocado (may be above in-store).
 - 145 sandwiches have bread "Sliced" (listing didn't say). Fillings parsed from product names.

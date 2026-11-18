@@ -7,6 +7,15 @@
 <script>
 const ADSENSE_CLIENT=""; // e.g. "ca-pub-1234567890123456". Empty = no ads load. Ad placement + UK/EU consent banner are set up in the AdSense dashboard.
 if(ADSENSE_CLIENT&&/^https?:$/.test(location.protocol)&&!/claude/.test(location.hostname)){const s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="+ADSENSE_CLIENT;document.head.appendChild(s)}
+// Visitor counts: GoatCounter (no cookies, so no consent banner needed). Sign up at goatcounter.com and put your code here,
+// e.g. "sarndle" for https://sarndle.goatcounter.com. Empty = nothing is sent. Not sent from localhost/file/claude.ai.
+const GOATCOUNTER="";
+const LIVE=/^https?:$/.test(location.protocol)&&!/claude|localhost|127\.0\.0\.1/.test(location.hostname);
+if(GOATCOUNTER&&LIVE){const s=document.createElement("script");s.async=true;s.src="https://gc.zgo.at/count.js";
+ s.dataset.goatcounter="https://"+GOATCOUNTER+".goatcounter.com/count";document.head.appendChild(s)}
+// track("today/won-3"): counts an event. Queued until GoatCounter has loaded.
+const trackQ=[];function track(path,title){if(!GOATCOUNTER||!LIVE)return;trackQ.push({path,title:title||path,event:true});
+ (function flush(n){if(window.goatcounter&&goatcounter.count){while(trackQ.length)goatcounter.count(trackQ.shift())}else if(n<20)setTimeout(()=>flush(n+1),500)})(0)}
 </script><link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥪</text></svg>">
 <style>
 :root{--bg:#fdf6e9;--ink:#2b2118;--crust:#c98a3e;--g:#4caf6a;--y:#e6b93a;--r:#b9b2a6;--card:#fff}
@@ -156,15 +165,15 @@ function openArchive(){const h=store.get("sarndle-history")||{},a=store.get("sar
   const g=isToday?(store.get("sarndle-v2")||{}):a[d]||{},going=g.day===d&&Array.isArray(g.g)&&g.g.length;
   const s=d in h?(h[d]?`✅ ${h[d]}/${MAX}`:"❌ X/"+MAX):going?`⏳ ${g.g.length}/${MAX}`:"▶️ Play";
   rows.push(`<a href="${href}" class="${d===cur?"cur":""}"><span><b>#${n}</b> · ${isToday?"Today":nice(d)}</span><b>${s}</b></a>`)}
- $("arclist").innerHTML=rows.join("");$("arcm").hidden=false}
+ $("arclist").innerHTML=rows.join("");$("arcm").hidden=false;track("archive-opened","Opened archive")}
 $("arcbtn").onclick=openArchive;$("arcok").onclick=()=>$("arcm").hidden=true;
 if(ARC){$("sub").textContent="Guess the sarnie from "+nice(ARC)+" in 6 tries";
  $("arcbar").innerHTML=`📅 Archive: Sarndle #${dayNo(ARC)} (${nice(ARC)}). Doesn't count towards your stats. <a href="./">Back to today</a>`;$("arcbar").hidden=false}
-$("statsbtn").onclick=openStats;$("statsok").onclick=()=>$("statsm").hidden=true;
+$("statsbtn").onclick=()=>{openStats();track("stats-opened","Opened stats")};$("statsok").onclick=()=>$("statsm").hidden=true;
 $("helpbtn").onclick=()=>$("help").hidden=false;$("helpok").onclick=()=>{$("help").hidden=true;store.set("sarndle-seen",1)};
 if(!store.get("sarndle-seen"))$("help").hidden=false;
 if(store.get("sarndle-cb"))document.body.classList.add("cb");$("cbmode").checked=!!store.get("sarndle-cb");
-$("cbmode").onchange=e=>{store.set("sarndle-cb",e.target.checked?1:0);document.body.classList.toggle("cb",e.target.checked)};
+$("cbmode").onchange=e=>{store.set("sarndle-cb",e.target.checked?1:0);if(e.target.checked)track("colour-blind-on","Turned on colour-blind mode");document.body.classList.toggle("cb",e.target.checked)};
 function sv(el,o){try{el.scrollIntoView(o)}catch(e){}}
 // ---- server ----
 // With a backend (Cloudflare Pages), api/guess checks guesses using a secret. On static hosting (GitHub Pages) there is
@@ -198,7 +207,7 @@ function render(){
  q.disabled=$("go").disabled=!res||done||busy;$("bar").hidden=done;q.placeholder=busy?"Checking…":"Type a sandwich…";
  const h=$("hint");h.hidden=!res||done||rs.length<3;
  if(!h.hidden)h.innerHTML=res.hint?`💡 Hint: it ${res.hint.filling?`contains <b>${esc(res.hint.filling)}</b> and `:""}costs between £${res.hint.price.toFixed(2)} and £${(res.hint.price+1).toFixed(2)}`:`<button id="hintb">💡 Show a hint</button>`;
- if(!h.hidden&&!res.hint)$("hintb").onclick=async()=>{st.hint=1;saveSt();try{apply(await api(st.g,1));err=""}catch(e){err="Couldn't get a hint. Try again."}render()};
+ if(!h.hidden&&!res.hint)$("hintb").onclick=async()=>{st.hint=1;saveSt();track("hint","Used a hint");try{apply(await api(st.g,1));err=""}catch(e){err="Couldn't get a hint. Try again."}render()};
  const e=$("end");e.hidden=!done;
  if(done&&ans){if(!ARC)recordStats(won,rs.length);recordHistory(res.day,won,rs.length);
   const sq={g:"🟩",y:"🟨",r:"⬛"},n=rs.length;
@@ -208,7 +217,7 @@ function render(){
   const share=`🥪 SARNDLE #${res.dayNo}${ARC?" (archive)":""} 🥪\n${title}  ${won?n:"X"}/${MAX}${st.hint?" 💡":""}\n\n🏪💷🥓🍞🏷️\n${grid}\n\nGuess the sarnie 👉 ${link}`;
   e.innerHTML=`<div class="pic ${won?"":"lose"}">${sandwichSVG(ans)}</div><h2>${won?"🎉 Got it!":"😢 Unlucky"}</h2><p>${ARC?"The sarnie for "+nice(res.day):"Today's sarnie"}: <b>${esc(label(ans))}</b></p><pre class="share">${esc(share)}</pre><div class="btns"><button id="sh">📋 Copy result</button>${ARC?`<button id="arc2" style="grid-column:1/-1">📅 Play another day</button></div><a class="back" href="./">← Back to today's sarnie</a>`:`<button id="st2">📊 Stats</button><button id="arc2">📅 Archive</button></div><p class="cd"></p>`}`;
   if($("st2"))$("st2").onclick=openStats;$("arc2").onclick=openArchive;
-  $("sh").onclick=()=>{try{navigator.clipboard.writeText(share).then(()=>$("sh").textContent="✅ Copied!",()=>{})}catch(err){}}}
+  $("sh").onclick=()=>{track("shared","Copied result");try{navigator.clipboard.writeText(share).then(()=>$("sh").textContent="✅ Copied!",()=>{})}catch(err){}}}
 }
 let sel=0,matches=[];
 function show(){const t=q.value.toLowerCase().trim();
@@ -218,9 +227,11 @@ function show(){const t=q.value.toLowerCase().trim();
  list.innerHTML=matches.map((i,k)=>`<div data-i="${i}" class="${k?"":"on"}">${esc(S[i][0])} <small>${esc(S[i][1])}</small></div>`).join("")}
 async function guess(i){if(i==null||busy||!res||res.done)return;const k=key(S[i]);if(st.g.includes(k))return;
  busy=true;err="";q.value="";list.hidden=true;matches=[];render();
+ const mode=ARC?"archive":"today",first=!st.g.length;
  try{apply(await api([...st.g,k],st.hint))}catch(e){err="Couldn't reach the server. Try that guess again."}
  busy=false;render();
- if(res&&res.done){burst(res.won);setTimeout(()=>sv($("end"),{behavior:"smooth"}),300)}else q.focus()}
+ if(res&&first&&res.results.length)track(mode+"/started","Started a game ("+mode+")");
+ if(res&&res.done){track(mode+"/"+(res.won?"won-"+res.results.length:"lost"),(res.won?"Won in "+res.results.length:"Lost")+" ("+mode+")");burst(res.won);setTimeout(()=>sv($("end"),{behavior:"smooth"}),300)}else q.focus()}
 q.oninput=()=>{show();if(!list.hidden)sv(list,{block:"nearest",behavior:"smooth"})};
 q.onfocus=()=>setTimeout(()=>sv($("bar"),{block:"center",behavior:"smooth"}),250);
 q.onkeydown=e=>{if((e.key==="ArrowDown"||e.key==="ArrowUp")&&matches.length){e.preventDefault();sel=(sel+(e.key==="ArrowDown"?1:-1)+matches.length)%matches.length;[...list.children].forEach((d,k)=>d.className=k===sel?"on":"")}

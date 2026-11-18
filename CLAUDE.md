@@ -30,6 +30,9 @@ Bread (green exact, yellow same family: sliced / rolls / wraps / toastie), Range
 - ads.txt only counts at the domain root, so on a `*.github.io/sarndle-repo/` project page it needs a custom domain (or a `<user>.github.io` repo).
 - AdSense: set `ADSENSE_CLIENT` + uncomment the `google-adsense-account` meta in `index.html`, replace `pub-XXXXXXXXXXXXXXXX` in `ads.txt`,
   and `CONTACT_EMAIL` in `privacy.html`. Ads load only when the ID is set and the page is on http(s) outside claude.ai. Consent (UK/EEA) is Google's CMP, set up in the AdSense dashboard.
+- Analytics: GoatCounter (no cookies, so no consent banner). Set `GOATCOUNTER` in `index.html` to the site code (`<code>.goatcounter.com`); empty = off, and nothing is sent from localhost/file/claude.ai.
+  Events via `track()`: `today|archive/started`, `today|archive/won-N`, `today|archive/lost`, `hint`, `shared`, `archive-opened`, `stats-opened`, `colour-blind-on`. Described in `privacy.html`.
+  GoatCounter's hosted service is free for non-commercial use, so once AdSense is on, check its terms (paid plan or self-host).
 - Share text uses `SITE_URL`: the page's own URL when it's served over http(s), or the claude.ai artifact URL otherwise (file:// or inside claude.ai).
 
 ## Local state (localStorage)

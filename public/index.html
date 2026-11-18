@@ -9,7 +9,7 @@ const ADSENSE_CLIENT=""; // e.g. "ca-pub-1234567890123456". Empty = no ads load.
 if(ADSENSE_CLIENT&&/^https?:$/.test(location.protocol)&&!/claude/.test(location.hostname)){const s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="+ADSENSE_CLIENT;document.head.appendChild(s)}
 // Visitor counts: GoatCounter (no cookies, so no consent banner needed). Sign up at goatcounter.com and put your code here,
 // e.g. "sarndle" for https://sarndle.goatcounter.com. Empty = nothing is sent. Not sent from localhost/file/claude.ai.
-const GOATCOUNTER="";
+const GOATCOUNTER="sarndle";
 const LIVE=/^https?:$/.test(location.protocol)&&!/claude|localhost|127\.0\.0\.1/.test(location.hostname);
 if(GOATCOUNTER&&LIVE){const s=document.createElement("script");s.async=true;s.src="https://gc.zgo.at/count.js";
  s.dataset.goatcounter="https://"+GOATCOUNTER+".goatcounter.com/count";document.head.appendChild(s)}

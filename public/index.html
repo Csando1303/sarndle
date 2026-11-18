@@ -33,7 +33,9 @@ button:disabled{opacity:.5;cursor:default}
 .end h2{margin:0 0 6px}
 .key{display:flex;gap:14px;justify-content:center;font-size:13px;margin-top:14px;flex-wrap:wrap}
 .key span::before{content:"";display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-1px;background:var(--c)}
-.share{background:#fdf6e9;border-radius:10px;padding:12px;display:inline-block;text-align:left;font-size:15px;white-space:pre-wrap;margin:6px 0 12px}
+.share{background:#fdf6e9;border-radius:10px;padding:12px;display:inline-block;max-width:100%;text-align:left;font-size:15px;white-space:pre-wrap;overflow-wrap:anywhere;margin:6px 0 12px}
+.btns{display:grid;grid-template-columns:1fr 1fr;gap:8px;max-width:360px;margin:0 auto}.btns button:first-child{grid-column:1/-1}.btns button{white-space:nowrap;padding:12px 10px}
+.back{display:block;margin-top:14px;color:var(--crust);font-weight:700}
 .foot{text-align:center;margin-top:18px;font-size:14px}.foot a{color:var(--crust);font-weight:700}
 .form{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0 16px}.form label{display:flex;flex-direction:column;gap:4px;font-size:13px;font-weight:700}
 .form .wide{grid-column:1/-1}select{padding:12px;font-size:16px;border:2px solid var(--crust);border-radius:10px;background:var(--card)}
@@ -204,7 +206,7 @@ function render(){
   const grid=rs.map(r=>{const c=r.c;return c.map(x=>sq[x[0]]).join("")+(c[1][1].includes("↑")?" 💷⬆️":c[1][1].includes("↓")?" 💷⬇️":" 💷✅")}).join("\n");
   const link=ARC?SITE_URL+"?d="+res.dayNo:SITE_URL;
   const share=`🥪 SARNDLE #${res.dayNo}${ARC?" (archive)":""} 🥪\n${title}  ${won?n:"X"}/${MAX}${st.hint?" 💡":""}\n\n🏪💷🥓🍞🏷️\n${grid}\n\nGuess the sarnie 👉 ${link}`;
-  e.innerHTML=`<div class="pic ${won?"":"lose"}">${sandwichSVG(ans)}</div><h2>${won?"🎉 Got it!":"😢 Unlucky"}</h2><p>${ARC?"The sarnie for "+nice(res.day):"Today's sarnie"}: <b>${esc(label(ans))}</b></p><pre class="share">${esc(share)}</pre><button id="sh">📋 Copy result</button> ${ARC?`<button id="arc2">📅 Play another day</button> <a class="foot" href="./" style="display:block;margin-top:12px">Back to today's sarnie</a>`:`<button id="st2">📊 Stats</button> <button id="arc2">📅 Archive</button><p class="cd"></p>`}`;
+  e.innerHTML=`<div class="pic ${won?"":"lose"}">${sandwichSVG(ans)}</div><h2>${won?"🎉 Got it!":"😢 Unlucky"}</h2><p>${ARC?"The sarnie for "+nice(res.day):"Today's sarnie"}: <b>${esc(label(ans))}</b></p><pre class="share">${esc(share)}</pre><div class="btns"><button id="sh">📋 Copy result</button>${ARC?`<button id="arc2" style="grid-column:1/-1">📅 Play another day</button></div><a class="back" href="./">← Back to today's sarnie</a>`:`<button id="st2">📊 Stats</button><button id="arc2">📅 Archive</button></div><p class="cd"></p>`}`;
   if($("st2"))$("st2").onclick=openStats;$("arc2").onclick=openArchive;
   $("sh").onclick=()=>{try{navigator.clipboard.writeText(share).then(()=>$("sh").textContent="✅ Copied!",()=>{})}catch(err){}}}
 }
